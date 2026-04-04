@@ -3,12 +3,29 @@ import json
 from collections import Counter, defaultdict
 
 CSV_FILE = "playlist.csv"
+OVERRIDES_FILE = "year_overrides.json"
 OUTPUT_HTML = "index.html"
 
 
 def load_tracks(path: str) -> list[dict]:
     with open(path, encoding="utf-8") as f:
-        return list(csv.DictReader(f))
+        tracks = list(csv.DictReader(f))
+
+    try:
+        with open(OVERRIDES_FILE, encoding="utf-8") as f:
+            overrides = json.load(f)
+    except FileNotFoundError:
+        return tracks
+
+    index = {(o["track_name"], o["artists"]): o["year"] for o in overrides}
+    for t in tracks:
+        key = (t["track_name"], t["artists"])
+        if key in index:
+            corrected = index[key]
+            t["year"] = str(corrected)
+            t["decade"] = str((corrected // 10) * 10)
+
+    return tracks
 
 
 def track_label(t: dict) -> str:

@@ -15,12 +15,6 @@ export SPOTIFY_CLIENT_ID=your_client_id
 export SPOTIFY_CLIENT_SECRET=your_client_secret
 ```
 
-Or create a `.env` file (never commit this):
-```
-SPOTIFY_CLIENT_ID=your_client_id
-SPOTIFY_CLIENT_SECRET=your_client_secret
-```
-
 ## Usage
 
 ```bash
@@ -35,6 +29,18 @@ python analyse.py
 ```
 
 The playlist ID is set in `fetch_playlist.py` — change `PLAYLIST_ID` to analyse a different playlist.
+
+## Correcting release years
+
+Some remastered tracks on Spotify carry the remaster date rather than the original release year. To fix these, edit `year_overrides.json`:
+
+```json
+[
+  {"track_name": "...", "artists": "...", "year": 1969}
+]
+```
+
+`track_name` and `artists` must match exactly what appears in `playlist.csv`. Re-run `build_webpage.py` to apply. The raw CSV is left unchanged — overrides are only applied at the visualisation stage.
 
 ## GitHub Pages
 
