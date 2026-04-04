@@ -11,18 +11,12 @@ def load_tracks(path: str) -> list[dict]:
         return list(csv.DictReader(f))
 
 
-MAX_HOVER_TRACKS = 30
-
-
 def track_label(t: dict) -> str:
     return f"{t['track_name']} - {t['artists']}"
 
 
 def hover_text(track_list: list[str]) -> str:
-    if len(track_list) <= MAX_HOVER_TRACKS:
-        return "<br>".join(track_list)
-    shown = "<br>".join(track_list[:MAX_HOVER_TRACKS])
-    return f"{shown}<br>... and {len(track_list) - MAX_HOVER_TRACKS} more"
+    return "<br>".join(track_list)
 
 
 def build_year_data(tracks: list[dict]) -> dict:
@@ -144,6 +138,11 @@ def main():
       max-width: 1400px;
       margin: 0 auto;
     }}
+    @media (max-width: 700px) {{
+      body {{ padding: 12px; }}
+      .grid {{ grid-template-columns: 1fr; }}
+      .chart-box.wide {{ grid-column: 1; }}
+    }}
     .chart-box {{
       background: #1a1d27;
       border-radius: 12px;
@@ -162,6 +161,69 @@ def main():
       letter-spacing: 0.05em;
     }}
     .chart {{ width: 100%; }}
+    .tap-hint {{
+      font-size: 0.75rem;
+      color: #555;
+      margin-top: 4px;
+    }}
+
+    /* Track panel */
+    #track-panel {{
+      display: none;
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      background: #1a1d27;
+      border-top: 1px solid #3a3d4a;
+      border-radius: 16px 16px 0 0;
+      max-height: 55vh;
+      z-index: 1000;
+      box-shadow: 0 -4px 24px rgba(0,0,0,0.5);
+      display: none;
+      flex-direction: column;
+    }}
+    #track-panel.open {{ display: flex; }}
+    #track-panel-header {{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 18px 10px;
+      border-bottom: 1px solid #2a2d3a;
+      flex-shrink: 0;
+    }}
+    #track-panel-title {{
+      font-weight: 600;
+      font-size: 0.95rem;
+      color: #fff;
+    }}
+    #track-panel-close {{
+      background: none;
+      border: none;
+      color: #888;
+      font-size: 1.2rem;
+      cursor: pointer;
+      padding: 0 4px;
+      line-height: 1;
+    }}
+    #track-panel-close:hover {{ color: #fff; }}
+    #track-panel-list {{
+      overflow-y: auto;
+      padding: 10px 18px 20px;
+      font-size: 0.85rem;
+      line-height: 1.7;
+      color: #ccc;
+    }}
+    #track-panel-list .track {{ padding: 2px 0; border-bottom: 1px solid #222; }}
+    #track-panel-list .track:last-child {{ border-bottom: none; }}
+    #track-panel-list .more {{ color: #666; font-style: italic; padding-top: 6px; }}
+
+    #panel-backdrop {{
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 999;
+    }}
+    #panel-backdrop.open {{ display: block; }}
   </style>
 </head>
 <body>
@@ -172,23 +234,32 @@ def main():
     <div class="chart-box wide">
       <h2>Tracks by Release Year</h2>
       <div id="chart-year" class="chart"></div>
-    </div>
-    <div class="chart-box">
-      <h2>Tracks by Decade</h2>
-      <div id="chart-decade" class="chart"></div>
+      <p class="tap-hint">Tap / click a bar to see tracks</p>
     </div>
     <div class="chart-box">
       <h2>Popularity Distribution</h2>
       <div id="chart-popularity" class="chart"></div>
+      <p class="tap-hint">Tap / click a bar to see tracks</p>
     </div>
     <div class="chart-box">
       <h2>Top 20 Genres</h2>
       <div id="chart-genre" class="chart"></div>
+      <p class="tap-hint">Tap / click a bar to see tracks</p>
     </div>
     <div class="chart-box">
       <h2>Top 15 Artists</h2>
       <div id="chart-artist" class="chart"></div>
+      <p class="tap-hint">Tap / click a bar to see tracks</p>
     </div>
+  </div>
+
+  <div id="panel-backdrop"></div>
+  <div id="track-panel">
+    <div id="track-panel-header">
+      <span id="track-panel-title"></span>
+      <button id="track-panel-close">&#x2715;</button>
+    </div>
+    <div id="track-panel-list"></div>
   </div>
 
 <script>
@@ -205,51 +276,72 @@ const darkLayout = {{
     bgcolor: "#1e2130",
     bordercolor: "#444",
     font: {{ color: "#eee", size: 11 }},
-    align: "left",
   }},
 }};
 
 const config = {{ responsive: true, displayModeBar: false }};
+
+// --- Track panel ---
+function openPanel(title, trackText) {{
+  document.getElementById("track-panel-title").textContent = title;
+  const list = document.getElementById("track-panel-list");
+  list.innerHTML = "";
+  const parts = trackText.split("<br>");
+  parts.forEach(line => {{
+    const div = document.createElement("div");
+    div.className = line.startsWith("...") ? "more" : "track";
+    div.textContent = line;
+    list.appendChild(div);
+  }});
+  document.getElementById("track-panel").classList.add("open");
+  document.getElementById("panel-backdrop").classList.add("open");
+}}
+
+function closePanel() {{
+  document.getElementById("track-panel").classList.remove("open");
+  document.getElementById("panel-backdrop").classList.remove("open");
+}}
+
+document.getElementById("track-panel-close").addEventListener("click", closePanel);
+document.getElementById("panel-backdrop").addEventListener("click", closePanel);
+
+// Map each chart div to its label and text arrays
+const chartMeta = {{
+  "chart-year":       {{ labels: DATA.year.x,             texts: DATA.year.text,        fmt: v => `${{v}}` }},
+"chart-popularity": {{ labels: DATA.popularity.ticktext, texts: DATA.popularity.text,  fmt: v => `Score ${{v}}` }},
+  "chart-genre":      {{ labels: DATA.genre.y,             texts: DATA.genre.text,       fmt: v => v }},
+  "chart-artist":     {{ labels: DATA.artist.y,            texts: DATA.artist.text,      fmt: v => v }},
+}};
+
+function wireClick(divId) {{
+  const el = document.getElementById(divId);
+  const meta = chartMeta[divId];
+  el.on("plotly_click", function(eventData) {{
+    const pt = eventData.points[0];
+    const idx = pt.pointIndex;
+    openPanel(meta.fmt(meta.labels[idx]), meta.texts[idx]);
+  }});
+}}
 
 // --- Year chart ---
 Plotly.newPlot("chart-year", [{{
   type: "bar",
   x: DATA.year.x,
   y: DATA.year.y,
-  hovertext: DATA.year.text,
-  hovertemplate: "<b>%{{x}}</b> — %{{y}} tracks<br><br>%{{hovertext}}<extra></extra>",
+  hovertemplate: "<b>%{{x}}</b> — %{{y}} tracks<extra></extra>",
   marker: {{ color: "#4e9af1" }},
 }}], {{
   ...darkLayout,
   margin: {{ t: 10, r: 10, b: 40, l: 40 }},
   bargap: 0.2,
-}}, config);
-
-// --- Decade pie ---
-Plotly.newPlot("chart-decade", [{{
-  type: "pie",
-  labels: DATA.decade.labels,
-  values: DATA.decade.values,
-  hovertext: DATA.decade.text,
-  hovertemplate: "<b>%{{label}}</b><br>%{{value}} tracks (%{{percent}})<br><br>%{{hovertext}}<extra></extra>",
-  textinfo: "label+percent",
-  hole: 0.35,
-  marker: {{
-    colors: ["#e07b54","#e0b454","#7be07b","#54b4e0","#a07be0","#e07ba0","#7be0d4","#e0e07b"],
-  }},
-}}], {{
-  ...darkLayout,
-  margin: {{ t: 10, r: 10, b: 10, l: 10 }},
-  showlegend: false,
-}}, config);
+}}, config).then(() => wireClick("chart-year"));
 
 // --- Popularity histogram ---
 Plotly.newPlot("chart-popularity", [{{
   type: "bar",
   x: DATA.popularity.x,
   y: DATA.popularity.y,
-  hovertext: DATA.popularity.text,
-  hovertemplate: "<b>Score %{{x}}</b> — %{{y}} tracks<br><br>%{{hovertext}}<extra></extra>",
+  hovertemplate: "<b>Score %{{x}}</b> — %{{y}} tracks<extra></extra>",
   marker: {{ color: "#a07be0" }},
 }}], {{
   ...darkLayout,
@@ -266,7 +358,7 @@ Plotly.newPlot("chart-popularity", [{{
     zerolinecolor: "#2a2d3a",
     title: {{ text: "Tracks", font: {{ size: 11 }} }},
   }},
-}}, config);
+}}, config).then(() => wireClick("chart-popularity"));
 
 // --- Genre bar ---
 Plotly.newPlot("chart-genre", [{{
@@ -274,8 +366,7 @@ Plotly.newPlot("chart-genre", [{{
   orientation: "h",
   y: DATA.genre.y,
   x: DATA.genre.x,
-  hovertext: DATA.genre.text,
-  hovertemplate: "<b>%{{y}}</b> — %{{x}} tracks<br><br>%{{hovertext}}<extra></extra>",
+  hovertemplate: "<b>%{{y}}</b> — %{{x}} tracks<extra></extra>",
   marker: {{ color: "#e07b7b" }},
 }}], {{
   ...darkLayout,
@@ -283,7 +374,7 @@ Plotly.newPlot("chart-genre", [{{
   height: 480,
   xaxis: {{ gridcolor: "#2a2d3a", zerolinecolor: "#2a2d3a", title: {{ text: "Tracks", font: {{ size: 11 }} }} }},
   yaxis: {{ gridcolor: "#2a2d3a", zerolinecolor: "#2a2d3a", automargin: true }},
-}}, config);
+}}, config).then(() => wireClick("chart-genre"));
 
 // --- Artist bar ---
 Plotly.newPlot("chart-artist", [{{
@@ -291,8 +382,7 @@ Plotly.newPlot("chart-artist", [{{
   orientation: "h",
   y: DATA.artist.y,
   x: DATA.artist.x,
-  hovertext: DATA.artist.text,
-  hovertemplate: "<b>%{{y}}</b> — %{{x}} tracks<br><br>%{{hovertext}}<extra></extra>",
+  hovertemplate: "<b>%{{y}}</b> — %{{x}} tracks<extra></extra>",
   marker: {{ color: "#54e0a0" }},
 }}], {{
   ...darkLayout,
@@ -300,7 +390,7 @@ Plotly.newPlot("chart-artist", [{{
   height: 480,
   xaxis: {{ gridcolor: "#2a2d3a", zerolinecolor: "#2a2d3a", title: {{ text: "Tracks", font: {{ size: 11 }} }} }},
   yaxis: {{ gridcolor: "#2a2d3a", zerolinecolor: "#2a2d3a", automargin: true }},
-}}, config);
+}}, config).then(() => wireClick("chart-artist"));
 </script>
 </body>
 </html>"""
