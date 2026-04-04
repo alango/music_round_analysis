@@ -358,6 +358,7 @@ Plotly.newPlot("chart-popularity", [{{
     zerolinecolor: "#2a2d3a",
     title: {{ text: "Tracks", font: {{ size: 11 }} }},
   }},
+  dragmode: false,
 }}, config).then(() => wireClick("chart-popularity"));
 
 // --- Genre bar ---
@@ -372,6 +373,7 @@ Plotly.newPlot("chart-genre", [{{
   ...darkLayout,
   margin: {{ t: 10, r: 20, b: 40, l: 130 }},
   height: 480,
+  dragmode: false,
   xaxis: {{ gridcolor: "#2a2d3a", zerolinecolor: "#2a2d3a", title: {{ text: "Tracks", font: {{ size: 11 }} }} }},
   yaxis: {{ gridcolor: "#2a2d3a", zerolinecolor: "#2a2d3a", automargin: true }},
 }}, config).then(() => wireClick("chart-genre"));
@@ -388,6 +390,7 @@ Plotly.newPlot("chart-artist", [{{
   ...darkLayout,
   margin: {{ t: 10, r: 20, b: 40, l: 150 }},
   height: 480,
+  dragmode: false,
   xaxis: {{ gridcolor: "#2a2d3a", zerolinecolor: "#2a2d3a", title: {{ text: "Tracks", font: {{ size: 11 }} }} }},
   yaxis: {{ gridcolor: "#2a2d3a", zerolinecolor: "#2a2d3a", automargin: true }},
 }}, config).then(() => wireClick("chart-artist"));
