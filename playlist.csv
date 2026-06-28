@@ -1,721 +1,781 @@
 track_name,artists,year,decade,genres,popularity,duration_ms,explicit
-The Lazy Song,Bruno Mars,2010,2010,,83,189109,False
-Spice Up Your Life,Spice Girls,1997,1990,,68,173666,False
-Lean on Me,Bill Withers,1994,1990,soul,62,257532,False
-Hunting High and Low,a-ha,1985,1980,new wave; synthpop,69,228693,False
-Feel It Still,Portugal. The Man,2017,2010,,84,163253,False
-Tribute,Tenacious D,2001,2000,comedy,67,248053,True
-Seven Tears,Goombay Dance Band,1981,1980,schlager; europop,47,238250,False
-Sit Down,James,1990,1990,britpop; madchester,65,244866,False
-She Moves In Her Own Way,The Kooks,2006,2000,indie; indie rock,75,169306,False
-Lucille,Kenny Rogers,1976,1970,country; classic country,66,220866,False
-Pink Venom,BLACKPINK,2022,2020,k-pop,67,186964,False
-The Wind Cries Mary,Jimi Hendrix,1967,1960,psychedelic rock; classic rock; acid rock; blues rock,63,200733,False
-Single Ladies (Put a Ring on It),Beyoncé,2008,2000,,71,192586,False
-YMCA,Village People,1980,1980,disco,69,202573,False
-Heartbreak Anthem (with David Guetta & Little Mix),Galantis; David Guetta; Little Mix,2021,2020,edm,67,183725,False
-It Takes Two,Marvin Gaye; Kim Weston,1966,1960,motown; classic soul; soul; northern soul; quiet storm,57,177666,False
-Chocolate,The 1975,2013,2010,,69,224673,False
-Because We Want To,Billie Piper,1998,1990,,45,229933,False
-Power To The People - Remastered 2010,John Lennon,2010,2010,christmas,43,204520,False
-In the Shadows,The Rasmus,2003,2000,finnish rock,76,257920,False
-Hungry Like the Wolf - 2009 Remaster,Duran Duran,1982,1980,new wave; synthpop,76,220626,False
-Sorry Not Sorry,Demi Lovato,2017,2010,,74,203760,True
-Rocks,Primal Scream,2008,2000,madchester; britpop; alternative dance,25,214440,False
-My Number,Foals,2013,2010,indie,70,238853,False
-Savage Remix (feat. Beyoncé),Megan Thee Stallion; Beyoncé,2020,2020,,64,242000,True
-Close To Me,The Cure,1985,1980,new wave; post-punk; gothic rock; darkwave,71,203266,False
-My Life Would Suck Without You,Kelly Clarkson,2009,2000,christmas,69,211493,False
-Let's Groove,"Earth, Wind & Fire",1981,1980,funk; disco,83,339018,False
-Everything Must Go,Manic Street Preachers,2002,2000,britpop,29,186453,False
-Baby I Need Your Loving,Four Tops,1965,1960,motown; northern soul; classic soul; soul,64,166026,False
-If I Can't,50 Cent,2003,2000,old school hip hop; east coast hip hop,76,196626,True
-Always Look On The Bright Side Of Life,Monty Python,1989,1980,comedy; spoken word,57,215333,True
-Attention,Charlie Puth,2018,2010,soft pop,88,208786,False
-What A Wonderful World,Louis Armstrong,1968,1960,jazz; swing music; vocal jazz; big band,78,139226,False
+The Lazy Song,Bruno Mars,2010,2010,,84,189109,False
+Spice Up Your Life,Spice Girls,1997,1990,,69,173666,False
+Lean on Me,Bill Withers,1994,1990,rap,63,257532,False
+Hunting High and Low,a-ha,1985,1980,,69,228693,False
+Feel It Still,Portugal. The Man,2017,2010,,85,163253,False
+Tribute,Tenacious D,2001,2000,,68,248053,True
+Seven Tears,Goombay Dance Band,1981,1980,yacht rock; soft rock,28,238250,False
+Sit Down,James,1990,1990,britpop; madchester,66,244866,False
+She Moves In Her Own Way,The Kooks,2006,2000,metal,75,169306,False
+Lucille,Kenny Rogers,1976,1970,,67,220866,False
+Pink Venom,BLACKPINK,2022,2020,new wave; post-punk,66,186964,False
+The Wind Cries Mary,Jimi Hendrix,1967,1960,,64,200733,False
+Single Ladies (Put a Ring on It),Beyoncé,2008,2000,,73,192586,False
+YMCA,Village People,1980,1980,eurodance,43,202573,False
+Heartbreak Anthem (with David Guetta & Little Mix),Galantis; David Guetta; Little Mix,2021,2020,indie; garage rock,67,183725,False
+It Takes Two,Marvin Gaye; Kim Weston,1966,1960,eurodance; europop,58,177666,False
+Chocolate,The 1975,2013,2010,,70,224673,False
+Because We Want To,Billie Piper,1998,1990,jangle pop,46,229933,False
+Power To The People - Remastered 2010,John Lennon,2010,2010,,43,204520,False
+In the Shadows,The Rasmus,2003,2000,madchester; britpop,77,257920,False
+Hungry Like the Wolf - 2009 Remaster,Duran Duran,1982,1980,classic rock; hard rock,78,220626,False
+Sorry Not Sorry,Demi Lovato,2017,2010,britpop,75,203760,True
+Rocks,Primal Scream,2008,2000,,26,214440,False
+My Number,Foals,2013,2010,,71,238853,False
+Savage Remix (feat. Beyoncé),Megan Thee Stallion; Beyoncé,2020,2020,pop,64,242000,True
+Close To Me,The Cure,1985,1980,folk rock; folk; singer-songwriter; roots rock,73,203266,False
+My Life Would Suck Without You,Kelly Clarkson,2009,2000,ska; rocksteady; ska punk,69,211493,False
+Let's Groove,"Earth, Wind & Fire",1981,1980,afrobeats; afrobeat,84,339018,False
+Everything Must Go,Manic Street Preachers,2002,2000,,32,186453,False
+Baby I Need Your Loving,Four Tops,1965,1960,,65,166026,False
+If I Can't,50 Cent,2003,2000,,75,196626,True
+Always Look On The Bright Side Of Life,Monty Python,1989,1980,power pop; jangle pop,58,215333,True
+Attention,Charlie Puth,2018,2010,,89,208786,False
+What A Wonderful World,Louis Armstrong,1968,1960,,79,139226,False
 When I Was Your Man,Bruno Mars,2012,2010,,90,213826,False
-Live Forever,Oasis,1994,1990,britpop; madchester,63,276866,False
-Save Your Tears,The Weeknd,2020,2020,,88,215626,True
-"Boom, Boom, Boom, Boom!!",Vengaboys,1999,1990,eurodance; europop,79,202583,False
-All Around the World,Lisa Stansfield,1989,1980,,56,268293,False
-Keep the Customer Satisfied,Simon & Garfunkel,1970,1970,folk rock; folk,50,157694,False
-Hey Baby,No Doubt; Bounty Killer,2001,2000,dancehall; ragga; reggae; riddim; lovers rock; shatta,62,207040,False
-Dancing In the Dark,Bruce Springsteen,1984,1980,,85,245296,False
-STUPID (feat. Yung Baby Tate),Ashnikko; Baby Tate,2019,2010,,66,167317,True
-(Don't Fear) The Reaper,Blue Öyster Cult,1976,1970,classic rock; hard rock,78,308123,False
-No Tomorrow,Orson,2006,2000,,54,167493,False
-Say My Name,Destiny's Child,1999,1990,,82,271333,False
-Material Girl,Madonna,2009,2000,,60,240280,False
-Summer,Calvin Harris,2014,2010,edm,87,222533,False
-Midnight Train to Georgia,Gladys Knight & The Pips,1973,1970,motown; classic soul; soul; northern soul,74,279144,False
+Live Forever,Oasis,1994,1990,,64,276866,False
+Save Your Tears,The Weeknd,2020,2020,k-pop,89,215626,True
+"Boom, Boom, Boom, Boom!!",Vengaboys,1999,1990,pop,79,202583,False
+All Around the World,Lisa Stansfield,1989,1980,pop rock,57,268293,False
+Keep the Customer Satisfied,Simon & Garfunkel,1970,1970,acid house,51,157694,False
+Hey Baby,No Doubt; Bounty Killer,2001,2000,baroque pop; motown; classic soul; northern soul; soul,63,207040,False
+Dancing In the Dark,Bruce Springsteen,1984,1980,,86,245296,False
+STUPID (feat. Yung Baby Tate),Ashnikko; Baby Tate,2019,2010,blues; classic blues; blues rock; new jack swing,66,167317,True
+(Don't Fear) The Reaper,Blue Öyster Cult,1976,1970,schlager; europop,81,308123,False
+No Tomorrow,Orson,2006,2000,,57,167493,False
+Say My Name,Destiny's Child,1999,1990,,84,271333,False
+Material Girl,Madonna,2009,2000,,32,240280,False
+Summer,Calvin Harris,2014,2010,britpop,90,222533,False
+Midnight Train to Georgia,Gladys Knight & The Pips,1973,1970,art pop; baroque pop,73,279144,False
 About Damn Time,Lizzo,2022,2020,,54,191937,False
-You Keep It All In,The Beautiful South,1989,1980,britpop,55,173760,False
-Five Colours In Her Hair,McFly,2004,2000,,57,177453,False
-Disarm - 2011 Remaster,The Smashing Pumpkins,1993,1990,alternative rock; rock,72,196905,False
-"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles,1968,1960,classic rock; psychedelic rock,74,188960,False
-One Way Or Another,Blondie,1981,1980,,65,216400,False
-Golden Skans,Klaxons,2007,2000,new rave; alternative dance; indie,64,165120,False
+You Keep It All In,The Beautiful South,1989,1980,,57,173760,False
+Five Colours In Her Hair,McFly,2004,2000,,58,177453,False
+Disarm - 2011 Remaster,The Smashing Pumpkins,1993,1990,europop; eurodance,73,196905,False
+"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles,1968,1960,yacht rock; soft rock,75,188960,False
+One Way Or Another,Blondie,1981,1980,folk rock; folk; singer-songwriter,65,216400,False
+Golden Skans,Klaxons,2007,2000,motown; christmas,65,165120,False
 Love It If We Made It,The 1975,2018,2010,,69,252925,True
-The Scientist,Coldplay,2002,2000,,89,309600,False
-The Muppet Show Theme,The Muppets; Joanna Newsom,2011,2010,christmas,50,50786,False
+The Scientist,Coldplay,2002,2000,yacht rock,90,309600,False
+The Muppet Show Theme,The Muppets; Joanna Newsom,2011,2010,new jack swing,49,50786,False
 The One and Only,Chesney Hawkes,1991,1990,,61,223666,False
-22 (Taylor's Version),Taylor Swift,2021,2020,,71,230960,False
-"Fun, Fun, Fun",The Beach Boys,2012,2010,baroque pop,54,136760,False
-Perfect,Ed Sheeran,2017,2010,soft pop,90,263400,False
-It Never Rains in Southern California,Albert Hammond,1972,1970,,70,233506,False
-Kiss,Prince,1986,1980,funk; funk rock,78,226240,False
-Is It Any Wonder?,Keane,2006,2000,,63,186173,False
-6 Underground,Sneaker Pimps,1996,1990,trip hop; downtempo,66,228840,False
-Unholy (feat. Kim Petras),Sam Smith; Kim Petras,2022,2020,soft pop,78,156943,False
-Super Freak,Rick James,1981,1980,funk; motown; disco,76,205466,False
-Señorita,Shawn Mendes; Camila Cabello,2019,2010,,81,190960,False
-99 Problems,JAŸ-Z,2003,2000,hip hop; east coast hip hop; rap,54,234626,True
-Dreams - 2004 Remaster,Fleetwood Mac,1977,1970,yacht rock; classic rock; soft rock,92,257800,False
-Staying Out For The Summer,Dodgy,1994,1990,britpop; madchester,48,192960,False
-Secret Love Song (feat. Jason Derulo),Little Mix; Jason Derulo,2015,2010,,79,249810,False
-She Drives Me Crazy,Fine Young Cannibals,1988,1980,,79,215773,False
-Private Investigations,Dire Straits,1982,1980,classic rock,61,405893,False
-Genie In a Bottle,Christina Aguilera,1999,1990,,85,217573,False
-"Paint It, Black",The Rolling Stones,1966,1960,classic rock; rock,85,202266,False
-Mountains,Biffy Clyro,2010,2010,,1,201146,False
-Obey (with YUNGBLUD),Bring Me The Horizon; YUNGBLUD,2020,2020,metalcore; emo; rock; screamo; post-hardcore,65,220538,True
-You Can Leave Your Hat On - 2002 Remaster,Randy Newman,1972,1970,,29,198066,False
-Barbie Girl,Aqua,1997,1990,europop; eurodance,78,197960,False
-Before I Fall To Pieces,Razorlight,2006,2000,britpop; indie,57,202133,False
-The Boys Are Back In Town,Thin Lizzy,1976,1970,classic rock; hard rock,72,266720,False
+22 (Taylor's Version),Taylor Swift,2021,2020,,72,230960,False
+"Fun, Fun, Fun",The Beach Boys,2012,2010,trap soul,57,136760,False
+Perfect,Ed Sheeran,2017,2010,,91,263400,False
+It Never Rains in Southern California,Albert Hammond,1972,1970,folk rock; folk,71,233506,False
+Kiss,Prince,1986,1980,,79,226240,False
+Is It Any Wonder?,Keane,2006,2000,new wave; synthpop,64,186173,False
+6 Underground,Sneaker Pimps,1996,1990,,67,228840,False
+Unholy (feat. Kim Petras),Sam Smith; Kim Petras,2022,2020,proto-punk; art rock,78,156943,False
+Super Freak,Rick James,1981,1980,,77,205466,False
+Señorita,Shawn Mendes; Camila Cabello,2019,2010,britpop; madchester; rap; hip hop,81,190960,False
+99 Problems,JAŸ-Z,2003,2000,psychedelic rock; classic rock; acid rock; blues rock,54,234626,True
+Dreams - 2004 Remaster,Fleetwood Mac,1977,1970,,93,257800,False
+Staying Out For The Summer,Dodgy,1994,1990,uk drill; drill,50,192960,False
+Secret Love Song (feat. Jason Derulo),Little Mix; Jason Derulo,2015,2010,indie; garage rock; soft rock,79,249810,False
+She Drives Me Crazy,Fine Young Cannibals,1988,1980,disco; funk,80,215773,False
+Private Investigations,Dire Straits,1982,1980,synthpop; new wave,61,405893,False
+Genie In a Bottle,Christina Aguilera,1999,1990,art rock; soft rock,85,217573,False
+"Paint It, Black",The Rolling Stones,1966,1960,reggae; roots reggae,86,202266,False
+Mountains,Biffy Clyro,2010,2010,eurodance,1,201146,False
+Obey (with YUNGBLUD),Bring Me The Horizon; YUNGBLUD,2020,2020,,65,220538,True
+You Can Leave Your Hat On - 2002 Remaster,Randy Newman,1972,1970,,30,198066,False
+Barbie Girl,Aqua,1997,1990,tropical house,79,197960,False
+Before I Fall To Pieces,Razorlight,2006,2000,metal; thrash metal; rock; heavy metal; hard rock,59,202133,False
+The Boys Are Back In Town,Thin Lizzy,1976,1970,,73,266720,False
 BREAK MY SOUL,Beyoncé,2022,2020,,69,278281,False
-Invisible Touch - 2007 Remaster,Genesis,1986,1980,progressive rock; art rock,76,208026,False
-Out Of Reach,GABRIELLE,2001,2000,,70,196986,False
-Since You Been Gone,Rainbow,1979,1970,hard rock; aor; metal; heavy metal,67,197160,False
-Soul Kitchen,The Doors,1967,1960,psychedelic rock; classic rock; acid rock,68,213000,False
-Read All About It,Professor Green; Emeli Sandé,2011,2010,grime; uk grime,56,235728,True
-Don't Go,Yazoo,1982,1980,synthpop; new wave,71,188466,False
-Drag Me Down,One Direction,2015,2010,,81,192112,False
-Fall At Your Feet,Crowded House,1991,1990,,66,198800,False
-Hero,Mariah Carey,1993,1990,christmas,72,257921,False
-Dance Monkey,Tones And I,2019,2010,,76,209438,False
-Uptown Girl,Billy Joel,1983,1980,soft rock,85,198294,False
-Sandstorm,Darude,2001,2000,eurodance,74,225493,False
-Play That Funky Music,Wild Cherry,1976,1970,,76,300000,False
-Bones,The Killers,2006,2000,alternative rock,62,227000,False
-Rumble,Link Wray,1962,1960,surf rock; rockabilly; proto-punk; native american music; psychobilly,44,145920,False
-Get Back - Remastered 2009,The Beatles,1970,1970,classic rock; psychedelic rock,70,189386,False
-Sowing The Seeds Of Love,Tears For Fears,1989,1980,new wave; synthpop,70,379333,False
-Peaches (feat. Daniel Caesar & Giveon),Justin Bieber; Daniel Caesar; GIVĒON,2021,2020,r&b,83,198081,True
-Burden In My Hand,Soundgarden,1996,1990,grunge; post-grunge; hard rock,66,290106,False
-Don't Stop Believin',Journey,2001,2000,aor; classic rock,78,248906,False
-Take Me Out,Franz Ferdinand,2004,2000,indie rock,86,237026,False
-Wouldn't It Be Nice,The Beach Boys,1966,1960,baroque pop,69,153205,False
-Cold Water (feat. Justin Bieber & MØ),Major Lazer; Justin Bieber; MØ,2016,2010,moombahton,74,185351,False
-Nasty,Janet Jackson,1986,1980,new jack swing,56,243133,False
-Maps,Maroon 5,2014,2010,pop,87,189960,False
-New Rose,The Damned,1977,1970,punk; proto-punk; gothic rock; post-punk; deathrock; horror punk; new wave,49,162346,False
-Wet Dream,Wet Leg,2022,2020,indie rock; indie,72,140080,False
-Without You - Remastered 2010,Badfinger,1970,1970,power pop; jangle pop,49,283493,False
-On Your Own,Blur,2000,2000,britpop; madchester; alternative rock,39,267200,False
-New Divide,Linkin Park,2009,2000,nu metal; rap metal; rock; alternative metal,73,268613,False
-Human Touch,Bruce Springsteen,1992,1990,,57,391552,False
-Reach,S Club,2000,2000,,58,243265,False
-California Gurls,Katy Perry; Snoop Dogg,2012,2010,pop; g-funk; west coast hip hop; gangster rap; old school hip hop; hip hop; rap,77,234653,False
-Get Off Of My Cloud - (Original Single Mono Version),The Rolling Stones,2004,2000,classic rock; rock,42,174013,False
-Go!,Public Service Broadcasting,2015,2010,,29,252720,False
-Make Me Smile (Come up and See Me) - 2014 Remaster,Steve Harley; Steve Harley & Cockney Rebel,1975,1970,glam rock,63,239213,False
-Street Spirit (Fade Out),Radiohead,1995,1990,art rock; alternative rock,72,253853,False
-Rooms on Fire,Stevie Nicks,1989,1980,,63,274520,False
-Enola Gay - Remastered 2003,Orchestral Manoeuvres In The Dark,1980,1980,new wave; synthpop,70,213693,False
-Grace,Lewis Capaldi,2019,2010,soft pop,69,185657,False
-We Are The World,U.S.A. For Africa,1985,1980,,71,427333,False
-Get Right,Jennifer Lopez,2005,2000,,67,225533,False
-Love the One You're With,Stephen Stills,1970,1970,folk rock; country rock; singer-songwriter,55,184733,False
-Seven Nation Army,The White Stripes,2003,2000,garage rock; blues rock; rock; alternative rock,86,232106,False
-Jamming,Bob Marley & The Wailers,2002,2000,reggae; roots reggae,67,211426,False
-Get Lucky (feat. Pharrell Williams and Nile Rodgers),Daft Punk; Pharrell Williams; Nile Rodgers,2013,2010,french house; electronic; electro,78,369626,False
+Invisible Touch - 2007 Remaster,Genesis,1986,1980,,77,208026,False
+Out Of Reach,GABRIELLE,2001,2000,art pop; baroque pop; art rock,70,196986,False
+Since You Been Gone,Rainbow,1979,1970,rap rock; old school hip hop; east coast hip hop; hip hop,68,197160,False
+Soul Kitchen,The Doors,1967,1960,psychedelic rock; acid rock; blues rock,69,213000,False
+Read All About It,Professor Green; Emeli Sandé,2011,2010,britpop; soul; classic soul; motown; soul blues,56,235728,True
+Don't Go,Yazoo,1982,1980,,72,188466,False
+Drag Me Down,One Direction,2015,2010,synthpop; new wave,82,192112,False
+Fall At Your Feet,Crowded House,1991,1990,new wave; synthpop,65,198800,False
+Hero,Mariah Carey,1993,1990,indie,73,257921,False
+Dance Monkey,Tones And I,2019,2010,,77,209438,False
+Uptown Girl,Billy Joel,1983,1980,disco,87,198294,False
+Sandstorm,Darude,2001,2000,classic rock; rock,75,225493,False
+Play That Funky Music,Wild Cherry,1976,1970,,77,300000,False
+Bones,The Killers,2006,2000,,62,227000,False
+Rumble,Link Wray,1962,1960,art rock; art pop,45,145920,False
+Get Back - Remastered 2009,The Beatles,1970,1970,yacht rock; soft rock,71,189386,False
+Sowing The Seeds Of Love,Tears For Fears,1989,1980,soul,70,379333,False
+Peaches (feat. Daniel Caesar & Giveon),Justin Bieber; Daniel Caesar; GIVĒON,2021,2020,,85,198081,True
+Burden In My Hand,Soundgarden,1996,1990,,68,290106,False
+Don't Stop Believin',Journey,2001,2000,,80,248906,False
+Take Me Out,Franz Ferdinand,2004,2000,jangle pop; alternative rock; rock,87,237026,False
+Wouldn't It Be Nice,The Beach Boys,1966,1960,trap soul,71,153205,False
+Cold Water (feat. Justin Bieber & MØ),Major Lazer; Justin Bieber; MØ,2016,2010,finnish pop; europop,78,185351,False
+Nasty,Janet Jackson,1986,1980,punk; proto-punk,58,243133,False
+Maps,Maroon 5,2014,2010,,87,189960,False
+New Rose,The Damned,1977,1970,,49,162346,False
+Wet Dream,Wet Leg,2022,2020,new wave; post-punk; gothic rock; darkwave,72,140080,False
+Without You - Remastered 2010,Badfinger,1970,1970,britpop; madchester,50,283493,False
+On Your Own,Blur,2000,2000,,39,267200,False
+New Divide,Linkin Park,2009,2000,christmas,73,268613,False
+Human Touch,Bruce Springsteen,1992,1990,,58,391552,False
+Reach,S Club,2000,2000,big beat; alternative dance; electronic; breakbeat,60,243265,False
+California Gurls,Katy Perry; Snoop Dogg,2012,2010,,78,234653,False
+Get Off Of My Cloud - (Original Single Mono Version),The Rolling Stones,2004,2000,reggae; roots reggae,44,174013,False
+Go!,Public Service Broadcasting,2015,2010,,7,252720,False
+Make Me Smile (Come up and See Me) - 2014 Remaster,Steve Harley; Steve Harley & Cockney Rebel,1975,1970,glam rock; funk,64,239213,False
+Street Spirit (Fade Out),Radiohead,1995,1990,country; classic country,74,253853,False
+Rooms on Fire,Stevie Nicks,1989,1980,,64,274520,False
+Enola Gay - Remastered 2003,Orchestral Manoeuvres In The Dark,1980,1980,swedish pop,71,213693,False
+Grace,Lewis Capaldi,2019,2010,progressive rock; art rock,69,185657,False
+We Are The World,U.S.A. For Africa,1985,1980,progressive rock,75,427333,False
+Get Right,Jennifer Lopez,2005,2000,disco; motown; philly soul,68,225533,False
+Love the One You're With,Stephen Stills,1970,1970,new rave; indie dance,57,184733,False
+Seven Nation Army,The White Stripes,2003,2000,,88,232106,False
+Jamming,Bob Marley & The Wailers,2002,2000,dance pop,68,211426,False
+Get Lucky (feat. Pharrell Williams and Nile Rodgers),Daft Punk; Pharrell Williams; Nile Rodgers,2013,2010,soul; motown; classic soul; garage rock; funk; disco,79,369626,False
 Waiting for a Girl like You,Foreigner,1981,1980,aor; classic rock,81,292066,False
-The Last Man on Earth,Wolf Alice,2021,2020,indie,57,261217,False
-I Say a Little Prayer,Dionne Warwick,1967,1960,,56,188360,False
-What Do You Want From Me?,Monaco,1997,1990,madchester; britpop,54,248360,False
-The Show Must Go On,Queen,2018,2010,classic rock; rock; glam rock,65,271611,False
-Fight For This Love,Cheryl,2009,2000,,69,223253,False
-Word Up,Cameo,1986,1980,funk,66,260000,False
-Stressed Out,Twenty One Pilots,2015,2010,,89,202333,False
-No More Mr. Nice Guy,Alice Cooper,1973,1970,glam rock; hard rock; glam metal; proto-punk; classic rock,63,187893,False
-Intergalactic - Remastered 2009,Beastie Boys,1998,1990,rap rock; old school hip hop; east coast hip hop; hip hop,73,231493,False
-Start Me Up,The Rolling Stones,2021,2020,classic rock; rock,42,250360,False
-Music For a Sushi Restaurant,Harry Styles,2022,2020,,75,193813,False
-My Happy Ending,Avril Lavigne,2004,2000,,76,242413,True
-Shake Your Money Maker,Elmore James,2001,2000,blues; classic blues; blues rock,26,152893,False
-Tell It to My Heart,Taylor Dayne,1988,1980,,73,220880,False
-Jump in the Pool,Friendly Fires,2008,2000,new rave; indie dance,41,217040,False
-Children Of The Revolution,T. Rex,1973,1970,glam rock; proto-punk,45,150133,False
-Man's Not Hot,Big Shaq,2017,2010,,61,186026,False
-Give It Away,Red Hot Chili Peppers,1991,1990,funk rock; alternative rock; rock,77,282906,False
-Animals,Martin Garrix,2013,2010,edm; progressive house; electronica,74,304228,False
-Magic,Pilot,1974,1970,glam rock,66,186333,False
-Mamma Mia,ABBA,1975,1970,,81,213266,False
-I Will Never Let You Down,Rita Ora,2014,2010,,66,203466,False
-9 to 5,Dolly Parton,1980,1980,country; classic country,79,166749,False
-Your Girlfriend,Blossoms,2020,2020,indie,60,161293,False
-('Til) I Kissed You,The Everly Brothers,1960,1960,doo-wop,49,145960,False
-Emergency on Planet Earth,Jamiroquai,1993,1990,acid jazz,53,245173,False
-Together Forever,Rick Astley,1987,1980,,71,205533,False
-Bitter Sweet Symphony - Remastered 2016,The Verve,1997,1990,britpop; shoegaze,87,357266,False
-Take My Breath,The Weeknd,2022,2020,,72,339023,False
-Why,Annie Lennox,1992,1990,synthpop,65,293838,False
-Hard Rock Hallelujah,Lordi,2006,2000,metal,56,247200,False
-Just My Imagination (Running Away With Me),The Temptations,1971,1970,motown; classic soul; soul,65,228160,False
-The Boys Are Back In Town,Thin Lizzy,1976,1970,classic rock; hard rock,72,266720,False
-Because We Want To,Billie Piper,1998,1990,,45,229933,False
-Orinoco Flow,Enya,2001,2000,new age; celtic,65,266226,False
-Chocolate,The 1975,2013,2010,,69,224673,False
-The Zephyr Song,Red Hot Chili Peppers,2002,2000,funk rock; alternative rock; rock,80,231933,False
-One Way,Levellers,1991,1990,celtic rock; folk punk; celtic punk; folk rock; britpop,46,248653,False
+The Last Man on Earth,Wolf Alice,2021,2020,afroswing; grime; uk grime; afrobeats,57,261217,False
+I Say a Little Prayer,Dionne Warwick,1967,1960,,57,188360,False
+What Do You Want From Me?,Monaco,1997,1990,classic rock; aor; progressive rock,55,248360,False
+The Show Must Go On,Queen,2018,2010,britpop,65,271611,False
+Fight For This Love,Cheryl,2009,2000,folk rock; country rock,69,223253,False
+Word Up,Cameo,1986,1980,soft rock,68,260000,False
+Stressed Out,Twenty One Pilots,2015,2010,progressive rock; psychedelic rock; art rock; avant-garde; acid rock,90,202333,False
+No More Mr. Nice Guy,Alice Cooper,1973,1970,,64,187893,False
+Intergalactic - Remastered 2009,Beastie Boys,1998,1990,,74,231493,False
+Start Me Up,The Rolling Stones,2021,2020,reggae; roots reggae,46,250360,False
+Music For a Sushi Restaurant,Harry Styles,2022,2020,,76,193813,False
+My Happy Ending,Avril Lavigne,2004,2000,,77,242413,True
+Shake Your Money Maker,Elmore James,2001,2000,,27,152893,False
+Tell It to My Heart,Taylor Dayne,1988,1980,,74,220880,False
+Jump in the Pool,Friendly Fires,2008,2000,afrobeats; afrobeat; afropop; afroswing; dancehall; afropiano,43,217040,False
+Children Of The Revolution,T. Rex,1973,1970,motown; classic soul,46,150133,False
+Man's Not Hot,Big Shaq,2017,2010,,62,186026,False
+Give It Away,Red Hot Chili Peppers,1991,1990,,78,282906,False
+Animals,Martin Garrix,2013,2010,alternative rock; rock,76,304228,False
+Magic,Pilot,1974,1970,,69,186333,False
+Mamma Mia,ABBA,1975,1970,,82,213266,False
+I Will Never Let You Down,Rita Ora,2014,2010,,68,203466,False
+9 to 5,Dolly Parton,1980,1980,stoner rock; alternative rock,80,166749,False
+Your Girlfriend,Blossoms,2020,2020,,62,161293,False
+('Til) I Kissed You,The Everly Brothers,1960,1960,post-punk; gothic rock; new wave; darkwave; madchester; cold wave,51,145960,False
+Emergency on Planet Earth,Jamiroquai,1993,1990,rockabilly; rock and roll,54,245173,False
+Together Forever,Rick Astley,1987,1980,classic rock; rock; glam rock,73,205533,False
+Bitter Sweet Symphony - Remastered 2016,The Verve,1997,1990,rock; post-grunge; alternative rock; grunge,88,357266,False
+Take My Breath,The Weeknd,2022,2020,k-pop,74,339023,False
+Why,Annie Lennox,1992,1990,new wave; synthpop,66,293838,False
+Hard Rock Hallelujah,Lordi,2006,2000,,59,247200,False
+Just My Imagination (Running Away With Me),The Temptations,1971,1970,yacht rock; soft rock,66,228160,False
+The Boys Are Back In Town,Thin Lizzy,1976,1970,,73,266720,False
+Because We Want To,Billie Piper,1998,1990,jangle pop,46,229933,False
+Orinoco Flow,Enya,2001,2000,blues; classic blues; blues rock; soul blues; country blues,65,266226,False
+Chocolate,The 1975,2013,2010,,70,224673,False
+The Zephyr Song,Red Hot Chili Peppers,2002,2000,,79,231933,False
+One Way,Levellers,1991,1990,,48,248653,False
 cardigan,Taylor Swift,2020,2020,,86,239560,False
-Baby Jane,Rod Stewart,2015,2010,soft rock,56,283866,False
-I Like It,Cardi B; Bad Bunny; J Balvin,2018,2010,reggaeton; trap latino; latin; urbano latino,85,253390,True
-Wichita Lineman,Glen Campbell,2011,2010,classic country,42,186666,False
-Said It All,Take That,2008,2000,,49,255840,False
-Because the Night,Patti Smith,1978,1970,proto-punk,70,204800,False
-Let's Dance - 2018 Remaster,David Bowie,1983,1980,glam rock; art rock,75,457675,False
-La La La,Naughty Boy; Sam Smith,2013,2010,soft pop,78,222200,False
-You Are The Sunshine Of My Life,Stevie Wonder,1972,1970,motown; classic soul; soul,69,178200,False
-Strip That Down,Liam Payne; Quavo,2017,2010,,66,204502,False
-No One Knows,Queens of the Stone Age,2002,2000,stoner rock; alternative rock,75,278746,False
-Heart,Pet Shop Boys,1998,1990,synthpop; new wave,55,257560,False
-I Think We're Alone Now - Single Version,Tommy James & The Shondells,1967,1960,,60,130320,False
-Thunderstruck,AC/DC,1990,1990,rock; hard rock; classic rock; rock and roll,89,292333,False
-Never Be Lonely,The Feeling,2006,2000,,47,211573,False
-No Diggity,Blackstreet; Dr. Dre; Queen Pen,1996,1990,new jack swing; old school hip hop; g-funk; gangster rap; west coast hip hop; hip hop; rap,81,304600,False
-go,Cat Burns,2024,2020,,59,215920,True
-Marquee Moon,Television,1977,1970,proto-punk; post-punk; art rock; new wave,55,638426,False
-Boulevard of Broken Dreams,Green Day,2024,2020,punk; pop punk,81,260936,True
-Le Freak,CHIC,1991,1990,disco; funk,56,327573,False
-R U Mine?,Arctic Monkeys,2012,2010,indie; garage rock,48,200187,False
-Nothing Ever Happens,Del Amitri,1989,1980,,53,233200,False
-Flowers,Miley Cyrus,2023,2020,,88,200600,False
-The More You Ignore Me the Closer I Get,Morrissey,1997,1990,britpop; madchester; jangle pop; new wave,26,223906,False
-Be Honest (feat. Burna Boy),Jorja Smith; Burna Boy,2019,2010,afrobeats; afrobeat; afropop; afroswing; dancehall; afropiano,69,207030,False
-We Like To Party! (The Vengabus),Vengaboys,1999,1990,eurodance; europop,73,222458,False
-Honky Tonk Women,The Rolling Stones,2019,2010,classic rock; rock,67,182706,False
-Hallelujah,Leonard Cohen,1984,1980,singer-songwriter,65,279902,False
-Never Forget You,Noisettes,2009,2000,,66,192213,False
-Cat's in the Cradle,Harry Chapin,1974,1970,singer-songwriter,70,222951,False
-Hot In Herre,Nelly,2002,2000,,52,228240,True
+Baby Jane,Rod Stewart,2015,2010,indie,57,283866,False
+I Like It,Cardi B; Bad Bunny; J Balvin,2018,2010,indie,84,253390,True
+Wichita Lineman,Glen Campbell,2011,2010,,43,186666,False
+Said It All,Take That,2008,2000,glam metal,57,255840,False
+Because the Night,Patti Smith,1978,1970,,70,204800,False
+Let's Dance - 2018 Remaster,David Bowie,1983,1980,,76,457675,False
+La La La,Naughty Boy; Sam Smith,2013,2010,folk rock; proto-punk; art rock,81,222200,False
+You Are The Sunshine Of My Life,Stevie Wonder,1972,1970,,69,178200,False
+Strip That Down,Liam Payne; Quavo,2017,2010,easy listening,66,204502,False
+No One Knows,Queens of the Stone Age,2002,2000,,76,278746,False
+Heart,Pet Shop Boys,1998,1990,,54,257560,False
+I Think We're Alone Now - Single Version,Tommy James & The Shondells,1967,1960,,61,130320,False
+Thunderstruck,AC/DC,1990,1990,,90,292333,False
+Never Be Lonely,The Feeling,2006,2000,grunge; rock,47,211573,False
+No Diggity,Blackstreet; Dr. Dre; Queen Pen,1996,1990,europop; eurodance; pop; uk r&b,82,304600,False
+go,Cat Burns,2024,2020,,57,215920,True
+Marquee Moon,Television,1977,1970,yacht rock; soft rock,56,638426,False
+Boulevard of Broken Dreams,Green Day,2024,2020,edm; progressive house; electronica,84,260936,True
+Le Freak,CHIC,1991,1990,classic rock; rock,57,327573,False
+R U Mine?,Arctic Monkeys,2012,2010,house,48,200187,False
+Nothing Ever Happens,Del Amitri,1989,1980,,54,233200,False
+Flowers,Miley Cyrus,2023,2020,old school hip hop; gangster rap; west coast hip hop; g-funk; hip hop,89,200600,False
+The More You Ignore Me the Closer I Get,Morrissey,1997,1990,moombahton,27,223906,False
+Be Honest (feat. Burna Boy),Jorja Smith; Burna Boy,2019,2010,soft rock,70,207030,False
+We Like To Party! (The Vengabus),Vengaboys,1999,1990,pop,74,222458,False
+Honky Tonk Women,The Rolling Stones,2019,2010,reggae; roots reggae,69,182706,False
+Hallelujah,Leonard Cohen,1984,1980,proto-punk; art rock,66,279902,False
+Never Forget You,Noisettes,2009,2000,soft pop,68,192213,False
+Cat's in the Cradle,Harry Chapin,1974,1970,new jack swing,71,222951,False
+Hot In Herre,Nelly,2002,2000,r&b,52,228240,True
 All About Tonight,Pixie Lott,2011,2010,,57,186173,False
-Shiny Happy People,R.E.M.,1991,1990,jangle pop; alternative rock; rock,75,225786,False
-Can't Take My Eyes off You,Frankie Valli,2003,2000,doo-wop,75,203240,False
-Hold On Tight,Electric Light Orchestra,1981,1980,art rock; soft rock,59,186138,False
-Oh Yeah,Ash,1996,1990,britpop,37,285466,False
-4 DEGREES,ANOHNI,2016,2010,art pop; baroque pop,34,231583,False
-Anarchy In The UK,Sex Pistols,1977,1970,punk; proto-punk,62,212480,False
-Where Are You Now,Lost Frequencies; Calum Scott,2021,2020,tropical house; soft pop,79,148197,False
-Coming Around Again,Carly Simon,1987,1980,,66,218493,False
-When You Were Young,The Killers,2006,2000,alternative rock,81,220426,False
-Nathan Jones,The Supremes,1971,1970,motown; northern soul; classic soul; soul,35,181360,False
-Come On Eileen,Dexys Midnight Runners,1982,1980,,80,287306,False
-One,U2,1991,1990,rock,78,276186,False
-Blame It on the Boogie,The Jacksons,1978,1970,disco; motown; philly soul,77,215319,False
-Waiting All Night (feat. Ella Eyre),Rudimental; Ella Eyre,2013,2010,,70,292586,False
-Green Green Grass,George Ezra,2022,2020,,71,167613,False
+Shiny Happy People,R.E.M.,1991,1990,eurodance,76,225786,False
+Can't Take My Eyes off You,Frankie Valli,2003,2000,riot grrrl; queercore,76,203240,False
+Hold On Tight,Electric Light Orchestra,1981,1980,soft pop,60,186138,False
+Oh Yeah,Ash,1996,1990,yacht rock,36,285466,False
+4 DEGREES,ANOHNI,2016,2010,,34,231583,False
+Anarchy In The UK,Sex Pistols,1977,1970,,62,212480,False
+Where Are You Now,Lost Frequencies; Calum Scott,2021,2020,art rock; alternative rock,80,148197,False
+Coming Around Again,Carly Simon,1987,1980,,67,218493,False
+When You Were Young,The Killers,2006,2000,,82,220426,False
+Nathan Jones,The Supremes,1971,1970,eurodance,36,181360,False
+Come On Eileen,Dexys Midnight Runners,1982,1980,post-punk; punk,83,287306,False
+One,U2,1991,1990,new wave,79,276186,False
+Blame It on the Boogie,The Jacksons,1978,1970,celtic rock; folk punk; celtic punk; folk rock; britpop,84,215319,False
+Waiting All Night (feat. Ella Eyre),Rudimental; Ella Eyre,2013,2010,glam rock; proto-punk; art rock,72,292586,False
+Green Green Grass,George Ezra,2022,2020,,72,167613,False
 She's A Star,James,1997,1990,britpop; madchester,57,219600,False
 Listen To What The Man Said - 2014 Remaster,Wings,1975,1970,,57,240986,False
-Fighter,Christina Aguilera,2002,2000,,69,245960,False
-I Got You (I Feel Good),James Brown; James Brown & The Famous Flames,2003,2000,funk; soul; motown; classic soul,56,166053,False
+Fighter,Christina Aguilera,2002,2000,art rock; soft rock,70,245960,False
+I Got You (I Feel Good),James Brown; James Brown & The Famous Flames,2003,2000,,57,166053,False
 Finesse,Bruno Mars,2016,2010,,81,191000,False
-Chapel Of Love,The Dixie Cups,1987,1980,doo-wop,0,167773,False
-Home - 2019 Remaster,Edward Sharpe & The Magnetic Zeros,2009,2000,,80,306373,False
-What A Wonderful World,Louis Armstrong,1968,1960,jazz; swing music; vocal jazz; big band,78,139226,False
-Ebeneezer Goode - Beat Edit,The Shamen,1998,1990,acid house; madchester,56,232200,False
+Chapel Of Love,The Dixie Cups,1987,1980,,0,167773,False
+Home - 2019 Remaster,Edward Sharpe & The Magnetic Zeros,2009,2000,proto-punk; glam rock,81,306373,False
+What A Wonderful World,Louis Armstrong,1968,1960,,79,139226,False
+Ebeneezer Goode - Beat Edit,The Shamen,1998,1990,yacht rock,57,232200,False
 Anywhere,Rita Ora,2017,2010,,63,215064,False
-People Watching,Sam Fender,2024,2020,,64,311480,False
-Second Hand News - 2004 Remaster,Fleetwood Mac,1977,1970,yacht rock; classic rock; soft rock,69,176306,False
-Burning Down the House,Talking Heads,1983,1980,new wave; post-punk,69,241920,False
-Golden Touch,Razorlight,2018,2010,britpop; indie,40,209906,False
-Debaser,Pixies,1989,1980,alternative rock,63,171746,False
-Wild Ones (feat. Sia),Flo Rida; Sia,2012,2010,,84,232946,False
-Feel Good Inc.,Gorillaz; De La Soul,2005,2000,jazz rap; east coast hip hop,92,222640,False
-Rock the Boat,Hues Corporation,1973,1970,disco,66,202573,False
-Good Without,Mimi Webb,2021,2020,,57,182121,False
-Gold Digger,Kanye West; Jamie Foxx,2005,2000,rap,68,207626,True
+People Watching,Sam Fender,2024,2020,new jack swing,64,311480,False
+Second Hand News - 2004 Remaster,Fleetwood Mac,1977,1970,,70,176306,False
+Burning Down the House,Talking Heads,1983,1980,,71,241920,False
+Golden Touch,Razorlight,2018,2010,metal; thrash metal; rock; heavy metal; hard rock,40,209906,False
+Debaser,Pixies,1989,1980,glam rock; proto-punk,64,171746,False
+Wild Ones (feat. Sia),Flo Rida; Sia,2012,2010,metal; heavy metal; rock; stoner rock; doom metal; hard rock; synthpop,85,232946,False
+Feel Good Inc.,Gorillaz; De La Soul,2005,2000,,92,222640,False
+Rock the Boat,Hues Corporation,1973,1970,,67,202573,False
+Good Without,Mimi Webb,2021,2020,motown; northern soul,57,182121,False
+Gold Digger,Kanye West; Jamie Foxx,2005,2000,,68,207626,True
 Moondance,Van Morrison,1995,1990,,0,438720,False
-Take Your Mama,Scissor Sisters,2004,2000,,59,271866,False
-For Your Love,The Yardbirds,1965,1960,psychedelic rock; acid rock; blues rock,46,150626,False
-Psycho (feat. Ty Dolla $ign),Post Malone; Ty Dolla $ign,2023,2020,trap soul,35,221446,True
+Take Your Mama,Scissor Sisters,2004,2000,britpop,60,271866,False
+For Your Love,The Yardbirds,1965,1960,madchester; britpop; alternative dance,47,150626,False
+Psycho (feat. Ty Dolla $ign),Post Malone; Ty Dolla $ign,2023,2020,,33,221446,True
 Song For Guy,Elton John,1978,1970,,53,413866,False
-Bad Habit,Steve Lacy,2022,2020,,86,232114,True
-It Started with a Kiss,Hot Chocolate,1987,1980,,43,242013,False
-Black Eyed Boy - Radio Edit,Texas,1997,1990,,53,190066,False
-Flaws,Bastille,2013,2010,,56,218800,False
-If I Could Turn Back Time,Cher,1989,1980,,75,239826,False
-Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit,Crystal Waters,2007,2000,,64,217760,False
-Fireflies,Owl City,2009,2000,,81,228346,False
-Hung Up,Madonna,2005,2000,,83,337733,False
-Girlfriend in a Coma - 2011 Remaster,The Smiths,1987,1980,new wave; madchester; jangle pop,61,122760,False
-I'm Free,The Who,1969,1960,classic rock; rock,44,159204,False
-Babylon,David Gray,1998,1990,,73,265640,False
-Candlelight,Jack Savoretti,2019,2010,,46,271586,False
-Islands In the Stream,Dolly Parton; Kenny Rogers,1982,1980,country; classic country,77,251960,False
-Cornflake Girl,Tori Amos,1994,1990,singer-songwriter; art pop,63,305493,False
-Waiting For Love,Avicii,2015,2010,edm,55,230613,False
-One Way Or Another,Blondie,1981,1980,,65,216400,False
-Tired of Being Alone,Al Green,1971,1970,soul; classic soul; motown; soul blues,73,172320,False
-Rich Flex,Drake; 21 Savage,2022,2020,rap,77,239359,True
-Solo (feat. Demi Lovato),Clean Bandit; Demi Lovato,2018,2010,,77,222706,False
-Go West,Pet Shop Boys,2020,2020,synthpop; new wave,56,304080,False
-Girls Just Want to Have Fun,Cyndi Lauper,1983,1980,,84,238120,False
-Fascination,Alphabeat,2008,2000,dansk pop; europop,54,182120,False
-Take Good Care Of My Baby,Bobby Vee,1962,1960,doo-wop; rock and roll,60,149800,False
-The Everlasting,Manic Street Preachers,1998,1990,britpop,43,369760,False
-Surface Pressure,Jessica Darrow,2021,2020,,72,202226,False
-The Club Is Alive,JLS,2010,2010,,48,223000,False
-Dakota,Stereophonics,2005,2000,britpop,77,297426,False
-Quit Playing Games (With My Heart),Backstreet Boys,1996,1990,,75,232666,False
-Immigrant Song - Remaster,Led Zeppelin,1970,1970,classic rock; rock; hard rock; rock and roll,81,146250,False
-Monkey Gone to Heaven,Pixies,1989,1980,alternative rock,65,175333,False
-"(I've Had) The Time Of My Life - From ""Dirty Dancing"" Soundtrack",Bill Medley; Jennifer Warnes,1987,1980,,71,290333,False
-Bad Day,Daniel Powter,2005,2000,,77,233640,False
-Ghost Town,The Specials,2000,2000,ska; rocksteady; ska punk,63,219306,False
-In My Feelings,Drake,2018,2010,rap,76,217925,True
-Tutti Frutti,Little Richard,1957,1950,rockabilly; rock and roll; doo-wop; boogie-woogie,67,144226,False
-Escapism.,RAYE; 070 Shake,2022,2020,,76,272373,True
-Come Sail Away,Styx,1977,1970,classic rock; aor; progressive rock,68,367000,False
-Rhythm Is a Dancer,SNAP!,1992,1990,eurodance,76,332229,False
-Little Things,One Direction,2012,2010,,73,219040,False
-Missing,Everything But The Girl,1994,1990,,55,247200,False
-Someday,The Strokes,2001,2000,garage rock; indie rock; alternative rock,74,183573,False
-I Never Loved a Man (The Way I Love You),Aretha Franklin,1967,1960,soul; motown; classic soul,61,171773,False
-Informer,Snow,1993,1990,,69,268910,False
-Hold My Hand,Lady Gaga,2022,2020,art pop; pop,71,225300,False
-Wings of a Dove,Madness,1984,1980,ska,0,179400,False
-(Theme From) The Monkees - Original Stereo Version; 2006 Remaster,The Monkees,1966,1960,,43,139093,False
+Bad Habit,Steve Lacy,2022,2020,,88,232114,True
+It Started with a Kiss,Hot Chocolate,1987,1980,,44,242013,False
+Black Eyed Boy - Radio Edit,Texas,1997,1990,,54,190066,False
+Flaws,Bastille,2013,2010,edm,56,218800,False
+If I Could Turn Back Time,Cher,1989,1980,k-pop,75,239826,False
+Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit,Crystal Waters,2007,2000,,65,217760,False
+Fireflies,Owl City,2009,2000,,82,228346,False
+Hung Up,Madonna,2005,2000,,85,337733,False
+Girlfriend in a Coma - 2011 Remaster,The Smiths,1987,1980,afrobeats; afrobeat; afropop; afropiano,61,122760,False
+I'm Free,The Who,1969,1960,eurodance; europop,45,159204,False
+Babylon,David Gray,1998,1990,classic rock; psychedelic rock,74,265640,False
+Candlelight,Jack Savoretti,2019,2010,,47,271586,False
+Islands In the Stream,Dolly Parton; Kenny Rogers,1982,1980,stoner rock; alternative rock,78,251960,False
+Cornflake Girl,Tori Amos,1994,1990,classic country,64,305493,False
+Waiting For Love,Avicii,2015,2010,new wave,55,230613,False
+One Way Or Another,Blondie,1981,1980,folk rock; folk; singer-songwriter,65,216400,False
+Tired of Being Alone,Al Green,1971,1970,,74,172320,False
+Rich Flex,Drake; 21 Savage,2022,2020,latin pop; experimental hip hop,78,239359,True
+Solo (feat. Demi Lovato),Clean Bandit; Demi Lovato,2018,2010,downtempo; trip hop; britpop,78,222706,False
+Go West,Pet Shop Boys,2020,2020,,58,304080,False
+Girls Just Want to Have Fun,Cyndi Lauper,1983,1980,christmas,85,238120,False
+Fascination,Alphabeat,2008,2000,ska,55,182120,False
+Take Good Care Of My Baby,Bobby Vee,1962,1960,disco house,61,149800,False
+The Everlasting,Manic Street Preachers,1998,1990,,44,369760,False
+Surface Pressure,Jessica Darrow,2021,2020,reggaeton; latin,72,202226,False
+The Club Is Alive,JLS,2010,2010,g-funk; west coast hip hop; gangster rap; old school hip hop; hip hop; rap,49,223000,False
+Dakota,Stereophonics,2005,2000,,77,297426,False
+Quit Playing Games (With My Heart),Backstreet Boys,1996,1990,new age; gregorian chant,75,232666,False
+Immigrant Song - Remaster,Led Zeppelin,1970,1970,folk; indie folk; folk rock,82,146250,False
+Monkey Gone to Heaven,Pixies,1989,1980,glam rock; proto-punk,66,175333,False
+"(I've Had) The Time Of My Life - From ""Dirty Dancing"" Soundtrack",Bill Medley; Jennifer Warnes,1987,1980,christmas; adult standards,72,290333,False
+Bad Day,Daniel Powter,2005,2000,,79,233640,False
+Ghost Town,The Specials,2000,2000,,63,219306,False
+In My Feelings,Drake,2018,2010,latin pop,78,217925,True
+Tutti Frutti,Little Richard,1957,1950,motown; classic soul; soul,67,144226,False
+Escapism.,RAYE; 070 Shake,2022,2020,blues; classic blues; soul blues; blues rock,75,272373,True
+Come Sail Away,Styx,1977,1970,,69,367000,False
+Rhythm Is a Dancer,SNAP!,1992,1990,,78,332229,False
+Little Things,One Direction,2012,2010,synthpop; new wave,73,219040,False
+Missing,Everything But The Girl,1994,1990,,68,247200,False
+Someday,The Strokes,2001,2000,classic rock,75,183573,False
+I Never Loved a Man (The Way I Love You),Aretha Franklin,1967,1960,classic rock,60,171773,False
+Informer,Snow,1993,1990,,70,268910,False
+Hold My Hand,Lady Gaga,2022,2020,,71,225300,False
+Wings of a Dove,Madness,1984,1980,tropical house,0,179400,False
+(Theme From) The Monkees [Original Stereo Version] - 2006 Remaster,The Monkees,1966,1960,britpop; shoegaze,43,139093,False
 All the Young Dudes,Mott The Hoople,1972,1970,glam rock; proto-punk,61,211066,False
-Still into You,Paramore,2013,2010,pop punk; emo,85,216013,False
-Girls Like You,Maroon 5,2018,2010,pop,73,215229,True
+Still into You,Paramore,2013,2010,grime; uk grime,86,216013,False
+Girls Like You,Maroon 5,2018,2010,,76,215229,True
 Last Request,Paolo Nutini,2007,2000,,71,220413,False
-No Woman No Cry,Bob Marley & The Wailers,1974,1970,reggae; roots reggae,64,226240,False
-Chandelier,Sia,2014,2010,,84,216120,False
-A Girl Like You,Edwyn Collins,2011,2010,britpop,72,236583,False
-Poison,Alice Cooper,1989,1980,glam rock; hard rock; glam metal; proto-punk; classic rock,75,269712,False
-Pointless,Lewis Capaldi,2023,2020,soft pop,68,231120,False
-Push The Button,Sugababes,2005,2000,,69,218093,False
-Never Fight A Man With A Perm,IDLES,2018,2010,post-punk; punk,60,228831,True
+No Woman No Cry,Bob Marley & The Wailers,1974,1970,dance pop,65,226240,False
+Chandelier,Sia,2014,2010,synthpop,84,216120,False
+A Girl Like You,Edwyn Collins,2011,2010,,73,236583,False
+Poison,Alice Cooper,1989,1980,,76,269712,False
+Pointless,Lewis Capaldi,2023,2020,progressive rock; art rock,69,231120,False
+Push The Button,Sugababes,2005,2000,new jack swing,69,218093,False
+Never Fight A Man With A Perm,IDLES,2018,2010,,61,228831,True
 Bright Side of the Road,Van Morrison,1979,1970,,3,226760,False
-Bonkers,Dizzee Rascal; Armand Van Helden,2011,2010,grime; uk grime; disco house; funky house,68,177573,False
-"Holding Out for a Hero - From ""Footloose"" Soundtrack",Bonnie Tyler,1986,1980,,78,348333,False
-She's in Fashion,Suede,1999,1990,britpop; madchester,47,293053,False
-The Last Waltz,Engelbert Humperdinck,1967,1960,,63,184186,False
-Promises (with Sam Smith),Calvin Harris; Sam Smith; Jessie Reyez,2018,2010,edm; soft pop,74,213309,False
-TRUSTFALL,P!nk,2023,2020,,70,237192,False
-Who's That Girl?,Eurythmics; Annie Lennox; Dave Stewart,1991,1990,new wave; synthpop,32,227400,False
-In My Place,Coldplay,2002,2000,,77,226680,False
-Common People,Pulp,2014,2010,britpop; madchester,54,246026,False
-Back To Life,Soul II Soul; Caron Wheeler,1989,1980,new jack swing,70,228266,False
-Norwegian Wood (This Bird Has Flown) - Remastered 2009,The Beatles,1965,1960,classic rock; psychedelic rock,71,124693,False
-Superheroes,The Script,2014,2010,,75,245466,False
-Walk On the Wild Side,Lou Reed,1972,1970,glam rock; proto-punk,74,255875,False
-Big Girls Don't Cry (Personal),Fergie,2006,2000,,65,268120,False
+Bonkers,Dizzee Rascal; Armand Van Helden,2011,2010,britpop; madchester; alternative rock,69,177573,False
+"Holding Out for a Hero - From ""Footloose"" Soundtrack",Bonnie Tyler,1986,1980,,79,348333,False
+She's in Fashion,Suede,1999,1990,,47,293053,False
+The Last Waltz,Engelbert Humperdinck,1967,1960,jazz; swing music; vocal jazz; big band,63,184186,False
+Promises (with Sam Smith),Calvin Harris; Sam Smith; Jessie Reyez,2018,2010,britpop; proto-punk; art rock,75,213309,False
+TRUSTFALL,P!nk,2023,2020,classic rock,70,237192,False
+Who's That Girl?,Eurythmics; Annie Lennox; Dave Stewart,1991,1990,new wave; synthpop; punk; proto-punk; gothic rock; post-punk; deathrock; horror punk,32,227400,False
+In My Place,Coldplay,2002,2000,yacht rock,77,226680,False
+Common People,Pulp,2014,2010,,54,246026,False
+Back To Life,Soul II Soul; Caron Wheeler,1989,1980,disco; grime; uk grime; uk drill; drill,72,228266,False
+Norwegian Wood (This Bird Has Flown) - Remastered 2009,The Beatles,1965,1960,yacht rock; soft rock,72,124693,False
+Superheroes,The Script,2014,2010,,76,245466,False
+Walk On the Wild Side,Lou Reed,1972,1970,glam metal,74,255875,False
+Big Girls Don't Cry (Personal),Fergie,2006,2000,punk,67,268120,False
 Sorry Seems To Be The Hardest Word,Elton John,1976,1970,,67,228933,False
-Welcome To The Cheap Seats,The Wonder Stuff,1991,1990,madchester; britpop,37,174440,False
-Don't Speak,No Doubt,1995,1990,,83,263560,False
-P.I.M.P.,50 Cent,2003,2000,old school hip hop; east coast hip hop,81,249480,True
-All Along the Watchtower,Bob Dylan,1967,1960,folk rock; folk; singer-songwriter; roots rock,55,154892,False
-Hold My Girl,George Ezra,2018,2010,,73,211763,False
-Don't Cry (Original),Guns N' Roses,1991,1990,rock; glam metal; hard rock; classic rock,80,283733,False
-Pound The Alarm,Nicki Minaj,2012,2010,,64,205640,True
-Notorious,Duran Duran,1998,1990,new wave; synthpop,52,258000,False
-Flux,Bloc Party,2007,2000,indie rock,55,217533,False
-Livin' Thing,Electric Light Orchestra,1976,1970,art rock; soft rock,74,211708,False
-deja vu,Olivia Rodrigo,2021,2020,,88,215506,True
-Intuition,Linx,1981,1980,post-disco; jazz funk,30,201533,False
-Silver Machine,Hawkwind,2010,2010,space rock; progressive rock; krautrock; psychedelic rock; proto-punk; acid rock; stoner rock; hard rock; art rock,32,281000,False
-I'll Be There,Jess Glynne,2018,2010,,73,194386,False
-All That She Wants,Ace of Base,1993,1990,eurodance; europop,83,211213,False
-Sunny Afternoon,The Kinks,1966,1960,proto-punk; baroque pop,66,212946,False
-Whatcha Think About That,The Pussycat Dolls; Missy Elliott,2008,2000,hip hop,52,228106,False
+Welcome To The Cheap Seats,The Wonder Stuff,1991,1990,funk rock; funk,37,174440,False
+Don't Speak,No Doubt,1995,1990,baroque pop,84,263560,False
+P.I.M.P.,50 Cent,2003,2000,,82,249480,True
+All Along the Watchtower,Bob Dylan,1967,1960,eurodance,56,154892,False
+Hold My Girl,George Ezra,2018,2010,,74,211763,False
+Don't Cry (Original),Guns N' Roses,1991,1990,new wave; synthpop,82,283733,False
+Pound The Alarm,Nicki Minaj,2012,2010,disco,66,205640,True
+Notorious,Duran Duran,1998,1990,classic rock; hard rock,53,258000,False
+Flux,Bloc Party,2007,2000,,56,217533,False
+Livin' Thing,Electric Light Orchestra,1976,1970,soft pop,76,211708,False
+deja vu,Olivia Rodrigo,2021,2020,new jack swing,89,215506,True
+Intuition,Linx,1981,1980,,30,201533,False
+Silver Machine,Hawkwind,2010,2010,space rock; progressive rock; krautrock; psychedelic rock; proto-punk; acid rock; hard rock; stoner rock; art rock,34,281000,False
+I'll Be There,Jess Glynne,2018,2010,rap,75,194386,False
+All That She Wants,Ace of Base,1993,1990,,84,211213,False
+Sunny Afternoon,The Kinks,1966,1960,,70,212946,False
+Whatcha Think About That,The Pussycat Dolls; Missy Elliott,2008,2000,r&b,50,228106,False
 China In Your Hand - Single Version,T'Pau,2005,2000,,52,247026,False
-Strict Machine,Goldfrapp,2003,2000,trip hop; electroclash; art pop,55,231453,False
-Daydreamer,David Cassidy,2000,2000,,36,167533,False
-One Week,Barenaked Ladies,1998,1990,,72,169760,False
-Baby (feat. Ashanti),Aitch; Ashanti,2022,2020,grime; uk grime; uk drill; drill; r&b,60,177733,True
-Little Red Corvette,Prince,1982,1980,funk; funk rock,58,296906,True
-Hunger of the Pine,alt-J,2014,2010,indie; indie rock,53,299710,False
-Cuba,Gibson Brothers,2011,2010,disco,49,453893,False
-We Can't Stop,Miley Cyrus,2013,2010,,83,231233,False
-You're My Best Friend - Remastered 2011,Queen,1975,1970,classic rock; rock; glam rock,69,170786,False
-Sadeness,Enigma,2001,2000,new age; gregorian chant,67,255533,False
-Freed From Desire,Gala; Molella; Phil Jay,1997,1990,eurodance; italo dance,80,213394,False
+Strict Machine,Goldfrapp,2003,2000,doo-wop,56,231453,False
+Daydreamer,David Cassidy,2000,2000,krautrock; neue deutsche welle; synthpop; electronic; new wave; electro,36,167533,False
+One Week,Barenaked Ladies,1998,1990,,74,169760,False
+Baby (feat. Ashanti),Aitch; Ashanti,2022,2020,glam rock; christmas; blues; blues rock; classic rock,61,177733,True
+Little Red Corvette,Prince,1982,1980,,59,296906,True
+Hunger of the Pine,alt-J,2014,2010,disco; funk,56,299710,False
+Cuba,Gibson Brothers,2011,2010,classic country,52,453893,False
+We Can't Stop,Miley Cyrus,2013,2010,old school hip hop; gangster rap; west coast hip hop; g-funk; hip hop,84,231233,False
+You're My Best Friend - Remastered 2011,Queen,1975,1970,britpop,69,170786,False
+Sadeness,Enigma,2001,2000,,71,255533,False
+Freed From Desire,Gala; Molella; Phil Jay,1997,1990,doo-wop; french house; electronic; electro; classic rock; acid rock,83,213394,False
 No Money,Galantis,2016,2010,,70,189126,False
-Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons; JID; Arcane; League of Legends,2022,2020,score,81,173381,False
-Nutbush City Limits,Ike & Tina Turner,2008,2000,motown; northern soul,55,181533,False
-The Way It Is,Bruce Hornsby and the Range,1986,1980,,77,297847,False
-Memories Are Made Of This,Dean Martin,1964,1960,christmas; adult standards; big band; swing music,51,138080,False
-Shaddap You Face,Joe Dolce,2010,2010,,46,193160,False
-Wherever You Will Go,The Calling,2001,2000,pop rock,71,208506,False
-The Most Beautiful Girl In the World,Prince,1995,1990,funk; funk rock,62,265320,False
-Walks Like Rihanna,The Wanted,2013,2010,,57,202150,False
-My Girl,The Temptations,1965,1960,motown; classic soul; soul,82,165000,False
-Mundian to Bach Ke,Panjabi MC,2003,2000,bhangra,52,245560,False
-Passionfruit,Drake,2017,2010,rap,89,298940,True
-Can I Play with Madness - 1998 Remaster,Iron Maiden,2008,2000,heavy metal; metal; hard rock; rock,35,211000,False
-Islands,The xx,2009,2000,,64,160720,False
-Against All Odds (Take a Look at Me Now) - 2016 Remaster,Phil Collins,2016,2010,soft rock,82,206360,False
-I Believe in You,Kylie Minogue,2004,2000,dance pop,52,200973,False
-Hit Me with Your Rhythm Stick,Ian Dury; The Blockheads,2010,2010,new wave,7,223840,False
-Rain On Me (with Ariana Grande),Lady Gaga; Ariana Grande,2020,2020,art pop; pop,74,182200,False
-Ring Ring,ABBA,1993,1990,,41,184400,False
-Eye of the Tiger,Survivor,1985,1980,,79,245640,False
-Obviously,McFly,2004,2000,,58,198880,False
+Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons; JID; Arcane; League of Legends,2022,2020,rock; eurodance; hip house; dance; classic rock; hard rock; rock and roll,81,173381,False
+Nutbush City Limits,Ike & Tina Turner,2008,2000,,56,181533,False
+The Way It Is,Bruce Hornsby and the Range,1986,1980,spoken word; progressive rock,77,297847,False
+Memories Are Made Of This,Dean Martin,1964,1960,,51,138080,False
+Shaddap You Face,Joe Dolce,2010,2010,new wave; madchester; jangle pop,47,193160,False
+Wherever You Will Go,The Calling,2001,2000,yacht rock; classic rock; soft rock,71,208506,False
+The Most Beautiful Girl In the World,Prince,1995,1990,,63,265320,False
+Walks Like Rihanna,The Wanted,2013,2010,,58,202150,False
+My Girl,The Temptations,1965,1960,yacht rock; soft rock,83,165000,False
+Mundian to Bach Ke,Panjabi MC,2003,2000,acid house; madchester,52,245560,False
+Passionfruit,Drake,2017,2010,latin pop,90,298940,True
+Can I Play with Madness - 1998 Remaster,Iron Maiden,2008,2000,disco; soul; classic soul; quiet storm; philly soul; motown,36,211000,False
+Islands,The xx,2009,2000,,67,160720,False
+Against All Odds (Take a Look at Me Now) - 2016 Remaster,Phil Collins,2016,2010,,82,206360,False
+I Believe in You,Kylie Minogue,2004,2000,soft pop,56,200973,False
+Hit Me with Your Rhythm Stick,Ian Dury; The Blockheads,2010,2010,power pop; punk; proto-punk; new wave,8,223840,False
+Rain On Me (with Ariana Grande),Lady Gaga; Ariana Grande,2020,2020,glam rock,78,182200,False
+Ring Ring,ABBA,1993,1990,,42,184400,False
+Eye of the Tiger,Survivor,1985,1980,,80,245640,False
+Obviously,McFly,2004,2000,,59,198880,False
 Style,Taylor Swift,2014,2010,,86,231000,False
-Love Changes (Everything),Climie Fisher,1988,1980,,66,268186,False
-Moonshadow,Yusuf / Cat Stevens,2003,2000,folk rock; folk; singer-songwriter,39,169853,False
-Skin,Rag'n'Bone Man,2017,2010,,73,239620,False
-What's The Ugliest Part Of Your Body? - Reprise,The Mothers Of Invention,1968,1960,progressive rock; psychedelic rock; art rock; avant-garde; acid rock,22,58040,False
-Fire,Kasabian,2009,2000,britpop; indie; indie rock,71,252279,False
-Tubthumping,Chumbawamba,1997,1990,,75,278778,False
-Lovely Day,Bill Withers,1977,1970,soul,82,257157,False
-Miracle (with Ellie Goulding),Calvin Harris; Ellie Goulding,2023,2020,edm,72,186496,False
-Near Wild Heaven,R.E.M.,1991,1990,jangle pop; alternative rock; rock,52,199360,False
-One Night in Heaven,M People,1998,1990,,50,264333,False
-Timber,Pitbull; Kesha,2012,2010,,68,204134,False
-Jealous Guy - Remastered 2010,John Lennon,1971,1970,christmas,68,257786,False
-Fairytale,Alexander Rybak,2009,2000,,71,183093,False
-Hanging Around,The Cardigans,1998,1990,swedish pop,41,224305,False
-idontwannabeyouanymore,Billie Eilish,2017,2010,,80,203569,False
-Shakin' All Over,Johnny Kidd & The Pirates,1992,1990,rockabilly; rock and roll,57,141960,False
-Sexual Healing,Marvin Gaye,1982,1980,motown; classic soul; soul; northern soul; quiet storm,77,238600,False
-Growing on Me,The Darkness,2003,2000,glam metal,52,211360,False
-You Should Be Dancing,Bee Gees,2009,2000,disco,64,256453,False
-Eyes Closed,Ed Sheeran,2023,2020,soft pop,74,194848,False
-Victim of Love - 2011 Remaster,Erasure,1987,1980,synthpop; new wave,51,222333,False
-Patience,Take That,2006,2000,,73,202066,False
-Man On The Moon,R.E.M.,1992,1990,jangle pop; alternative rock; rock,70,314173,False
-Sh-Boom,The Chords,2022,2020,doo-wop,71,144493,False
-Girls Like (feat. Zara Larsson),Tinie Tempah; Zara Larsson,2017,2010,grime,69,195306,True
-Wings,Little Mix,2012,2010,,66,221720,False
-Iron Man (2012 Remaster),Black Sabbath,1970,1970,metal; heavy metal; rock; stoner rock; doom metal; hard rock,64,353613,False
-12:51,The Strokes,2003,2000,garage rock; indie rock; alternative rock,66,153133,True
-Temptation,Heaven 17,1992,1990,synthpop; new wave,48,278920,False
-Hey Boy Hey Girl,The Chemical Brothers,1999,1990,big beat; alternative dance; electronic; breakbeat,70,290493,False
-Ghost in the Machine (feat. Phoebe Bridgers),SZA; Phoebe Bridgers,2022,2020,r&b,70,218586,True
-Personal Jesus,Depeche Mode,1990,1990,new wave; synthpop; darkwave,69,295960,False
-Acceptable in the 80's,Calvin Harris,2007,2000,edm,58,333680,False
-I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,1987,1980,,86,292875,False
-Wonderful Tonight,Eric Clapton,1977,1970,blues; blues rock; classic rock,74,225026,False
-Perfect World,Kodaline,2013,2010,,39,172826,False
-The Frog Princess,The Divine Comedy,1996,1990,baroque pop; britpop; comedy,30,313426,False
-Never Can Say Goodbye,The Jackson 5,1971,1970,motown; christmas,51,177626,False
-Mariners Apartment Complex,Lana Del Rey,2019,2010,,71,247150,True
-"Monday, Monday",The Mamas & The Papas,2001,2000,folk rock,45,206360,False
-Run to the Hills - 2015 Remaster,Iron Maiden,1982,1980,heavy metal; metal; hard rock; rock,74,233506,False
-If There's Any Justice,Lemar,2004,2000,uk r&b,48,229080,False
-Wish You The Best,Lewis Capaldi,2023,2020,soft pop,77,210880,False
-Two Princes,Spin Doctors,1991,1990,,74,256946,False
-Royals,Lorde,2013,2010,,81,190185,False
-My Generation,The Who,1965,1960,classic rock; rock,50,200173,False
-Sexbomb,Tom Jones; Mousse T.,1999,1990,,69,211893,False
-21 Guns,Green Day,2009,2000,punk; pop punk,79,321093,False
-You Spin Me Round (Like a Record),Dead Or Alive,2003,2000,hi-nrg; synthpop,72,195146,False
+Love Changes (Everything),Climie Fisher,1988,1980,,67,268186,False
+Moonshadow,Yusuf / Cat Stevens,2003,2000,,39,169853,False
+Skin,Rag'n'Bone Man,2017,2010,pop punk; emo,73,239620,False
+What's The Ugliest Part Of Your Body? - Reprise,The Mothers Of Invention,1968,1960,singer-songwriter; folk rock,22,58040,False
+Fire,Kasabian,2009,2000,,69,252279,False
+Tubthumping,Chumbawamba,1997,1990,,76,278778,False
+Lovely Day,Bill Withers,1977,1970,rap,83,257157,False
+Miracle (with Ellie Goulding),Calvin Harris; Ellie Goulding,2023,2020,britpop,74,186496,False
+Near Wild Heaven,R.E.M.,1991,1990,eurodance,53,199360,False
+One Night in Heaven,M People,1998,1990,rock; hard rock; classic rock; rock and roll,51,264333,False
+Timber,Pitbull; Kesha,2012,2010,garage rock; indie rock; alternative rock,69,204134,False
+Jealous Guy - Remastered 2010,John Lennon,1971,1970,,68,257786,False
+Fairytale,Alexander Rybak,2009,2000,heavy metal; metal; hard rock; rock,73,183093,False
+Hanging Around,The Cardigans,1998,1990,hard rock; aor; metal; heavy metal,42,224305,False
+idontwannabeyouanymore,Billie Eilish,2017,2010,yacht rock,81,203569,False
+Shakin' All Over,Johnny Kidd & The Pirates,1992,1990,uk garage; breakbeat,58,141960,False
+Sexual Healing,Marvin Gaye,1982,1980,eurodance; europop,77,238600,False
+Growing on Me,The Darkness,2003,2000,edm,51,211360,False
+You Should Be Dancing,Bee Gees,2009,2000,,65,256453,False
+Eyes Closed,Ed Sheeran,2023,2020,,76,194848,False
+Victim of Love - 2011 Remaster,Erasure,1987,1980,britpop; madchester,51,222333,False
+Patience,Take That,2006,2000,glam metal,73,202066,False
+Man On The Moon,R.E.M.,1992,1990,eurodance,71,314173,False
+Sh-Boom,The Chords,2022,2020,,71,144493,False
+Girls Like (feat. Zara Larsson),Tinie Tempah; Zara Larsson,2017,2010,french pop,71,195306,True
+Wings,Little Mix,2012,2010,indie; garage rock,67,221720,False
+Iron Man (2012 Remaster),Black Sabbath,1970,1970,punk; pop punk,64,353613,False
+12:51,The Strokes,2003,2000,classic rock,69,153133,True
+Temptation,Heaven 17,1992,1990,rockabilly; rock and roll; doo-wop; boogie-woogie,49,278920,False
+Hey Boy Hey Girl,The Chemical Brothers,1999,1990,,73,290493,False
+Ghost in the Machine (feat. Phoebe Bridgers),SZA; Phoebe Bridgers,2022,2020,r&b; grunge; post-grunge; hard rock,70,218586,True
+Personal Jesus,Depeche Mode,1990,1990,aor; classic rock,70,295960,False
+Acceptable in the 80's,Calvin Harris,2007,2000,britpop,59,333680,False
+I Wanna Dance with Somebody (Who Loves Me),Whitney Houston,1987,1980,,87,292875,False
+Wonderful Tonight,Eric Clapton,1977,1970,indie; indie rock,74,225026,False
+Perfect World,Kodaline,2013,2010,,40,172826,False
+The Frog Princess,The Divine Comedy,1996,1990,,29,313426,False
+Never Can Say Goodbye,The Jackson 5,1971,1970,,56,177626,False
+Mariners Apartment Complex,Lana Del Rey,2019,2010,,72,247150,True
+"Monday, Monday",The Mamas & The Papas,2001,2000,,46,206360,False
+Run to the Hills - 2015 Remaster,Iron Maiden,1982,1980,disco; soul; classic soul; quiet storm; philly soul; motown,75,233506,False
+If There's Any Justice,Lemar,2004,2000,melodic rap,53,229080,False
+Wish You The Best,Lewis Capaldi,2023,2020,progressive rock; art rock,76,210880,False
+Two Princes,Spin Doctors,1991,1990,motown; classic soul; soul; northern soul; quiet storm,77,256946,False
+Royals,Lorde,2013,2010,grime; uk grime; uk drill; drill,82,190185,False
+My Generation,The Who,1965,1960,eurodance; europop,51,200173,False
+Sexbomb,Tom Jones; Mousse T.,1999,1990,,70,211893,False
+21 Guns,Green Day,2009,2000,edm; progressive house; electronica,80,321093,False
+You Spin Me Round (Like a Record),Dead Or Alive,2003,2000,,73,195146,False
 TOOTIMETOOTIMETOOTIME,The 1975,2018,2010,,63,207851,False
-The Eve of the War (feat. Richard Burton & Justin Hayward),Jeff Wayne; Richard Burton; Justin Hayward,1978,1970,progressive rock; spoken word,47,547466,False
-Loser,Beck,1994,1990,anti-folk,70,235000,False
-Let's Stay Together,Al Green,1972,1970,soul; classic soul; motown; soul blues,78,199396,False
-Padam Padam,Kylie Minogue,2023,2020,dance pop,69,166266,False
-Numb,Linkin Park,2003,2000,nu metal; rap metal; rock; alternative metal,90,187520,False
-End Of The Line,Traveling Wilburys,1988,1980,,50,209520,False
-I Love It (feat. Charli XCX),Icona Pop; Charli xcx,2013,2010,hyperpop; art pop,68,157152,True
-I Will Survive,Gloria Gaynor,1978,1970,disco,79,296106,False
-This Is How We Do It,Montell Jordan,2015,2010,new jack swing,68,237546,False
-Why Can't I Be You? - Remastered 2006,The Cure,1987,1980,new wave; post-punk; gothic rock; darkwave,50,193200,False
-Groovin',The Young Rascals,1967,1960,,64,151289,False
-Extreme Ways,Moby,2002,2000,downtempo; trip hop,69,237640,False
-Issues,Julia Michaels,2017,2010,,76,176320,False
+The Eve of the War (feat. Richard Burton & Justin Hayward),Jeff Wayne; Richard Burton; Justin Hayward,1978,1970,disco; philly soul; glam rock,48,547466,False
+Loser,Beck,1994,1990,,71,235000,False
+Let's Stay Together,Al Green,1972,1970,,79,199396,False
+Padam Padam,Kylie Minogue,2023,2020,soft pop,71,166266,False
+Numb,Linkin Park,2003,2000,christmas,91,187520,False
+End Of The Line,Traveling Wilburys,1988,1980,,23,209520,False
+I Love It (feat. Charli XCX),Icona Pop; Charli xcx,2013,2010,motown; classic soul; soul; northern soul,70,157152,True
+I Will Survive,Gloria Gaynor,1978,1970,,81,296106,False
+This Is How We Do It,Montell Jordan,2015,2010,,69,237546,False
+Why Can't I Be You? - Remastered 2006,The Cure,1987,1980,folk rock; folk; singer-songwriter; roots rock,53,193200,False
+Groovin',The Young Rascals,1967,1960,,66,151289,False
+Extreme Ways,Moby,2002,2000,,70,237640,False
+Issues,Julia Michaels,2017,2010,northern soul; motown; classic soul,77,176320,False
 Your Song,Elton John,1970,1970,,82,241786,False
-Rehab,Rihanna,2007,2000,,64,294720,False
-White Wedding,Billy Idol,2017,2010,,55,252320,False
-Sprinter,Dave; Central Cee,2023,2020,grime; uk grime; uk drill; drill,46,229133,True
-Always On The Run,Lenny Kravitz,1991,1990,,60,233066,False
-I Want To Break Free,Queen,2018,2010,classic rock; rock; glam rock,74,223080,False
-Livin' la Vida Loca,Ricky Martin,1999,1990,latin pop,80,243160,False
-Bills,LunchMoney Lewis,2015,2010,,51,204600,True
-Piece of My Heart,Erma Franklin,2009,2000,classic soul; northern soul; soul; motown,59,157266,False
-The Cave,Mumford & Sons,2010,2010,folk; indie folk; folk rock,51,218000,False
-Don't Believe The Hype,Public Enemy,1988,1980,old school hip hop; east coast hip hop; hip hop; hardcore hip hop,50,319360,False
-I Ain't Worried,OneRepublic,2022,2020,soft pop,83,148485,False
-Things Can Only Get Better - Remastered,D:Ream,1993,1990,,59,259317,False
-Lost In Music,Sister Sledge,2018,2010,disco; philly soul,34,287440,False
-Leave a Light On,Tom Walker,2017,2010,,69,185863,False
-Rich Girl,Gwen Stefani; Eve,2004,2000,,50,236213,False
-Ruby,Kaiser Chiefs,2007,2000,britpop; indie rock,70,204200,False
-Should I Stay or Should I Go - Remastered,The Clash,1982,1980,punk,85,188987,False
-Rich Girl,Daryl Hall & John Oates,1976,1970,yacht rock; soft rock,79,142786,False
-This City,Sam Fischer,2019,2010,,68,194853,False
-Nothing Else Matters - Remastered 2021,Metallica,2021,2020,metal; thrash metal; rock; heavy metal; hard rock,84,388733,False
-Adventure of a Lifetime,Coldplay,2015,2010,,88,263786,False
-Superfly,Curtis Mayfield,1972,1970,classic soul; soul; motown; funk,62,233600,False
-Paranoid Android,Radiohead,1997,1990,art rock; alternative rock,74,387213,False
-Son Of A Preacher Man,Dusty Springfield,1969,1960,,70,148053,False
-Not Gonna Get Us,t.A.T.u.,2002,2000,,63,261680,False
-Free Fallin',Tom Petty,1989,1980,classic rock,80,256000,False
-Sweet Nothing (feat. Florence Welch),Calvin Harris; Florence Welch,2012,2010,edm,79,212560,False
-With A Little Help From My Friends - Remastered 2009,The Beatles,1967,1960,classic rock; psychedelic rock,63,164106,False
-Just Lose It,Eminem,2004,2000,rap; hip hop,53,248680,True
-Blister In The Sun,Violent Femmes,1983,1980,folk punk,72,145706,False
-The Boy Does Nothing,Alesha Dixon,2008,2000,uk funky,59,210680,False
-Love Don't Live Here Anymore,Rose Royce,1978,1970,quiet storm; disco; classic soul,60,238306,False
-i'm so tired...,Lauv; Troye Sivan,2020,2020,,71,162586,False
+Rehab,Rihanna,2007,2000,chicago house; hip house; eurodance,65,294720,False
+White Wedding,Billy Idol,2017,2010,,56,252320,False
+Sprinter,Dave; Central Cee,2023,2020,hi-nrg; synthpop; doo-wop; motown,22,229133,True
+Always On The Run,Lenny Kravitz,1991,1990,,61,233066,False
+I Want To Break Free,Queen,2018,2010,britpop,77,223080,False
+Livin' la Vida Loca,Ricky Martin,1999,1990,pop,81,243160,False
+Bills,LunchMoney Lewis,2015,2010,hyperpop; art pop,51,204600,True
+Piece of My Heart,Erma Franklin,2009,2000,,59,157266,False
+The Cave,Mumford & Sons,2010,2010,funk; soul; motown; classic soul,52,218000,False
+Don't Believe The Hype,Public Enemy,1988,1980,pop punk; punk; skate punk; rock; emo,51,319360,False
+I Ain't Worried,OneRepublic,2022,2020,soft pop,84,148485,False
+Things Can Only Get Better - Remastered,D:Ream,1993,1990,house,60,259317,False
+Lost In Music,Sister Sledge,2018,2010,classic rock,35,287440,False
+Leave a Light On,Tom Walker,2017,2010,,70,185863,False
+Rich Girl,Gwen Stefani; Eve,2004,2000,industrial metal; industrial rock; industrial; metal; nu metal,50,236213,False
+Ruby,Kaiser Chiefs,2007,2000,dancehall,70,204200,False
+Should I Stay or Should I Go - Remastered,The Clash,1982,1980,soft pop,85,188987,False
+Rich Girl,Daryl Hall & John Oates,1976,1970,garage rock; blues rock; rock; alternative rock,83,142786,False
+This City,Sam Fischer,2019,2010,indie rock,68,194853,False
+Nothing Else Matters - Remastered 2021,Metallica,2021,2020,,85,388733,False
+Adventure of a Lifetime,Coldplay,2015,2010,yacht rock,89,263786,False
+Superfly,Curtis Mayfield,1972,1970,,63,233600,False
+Paranoid Android,Radiohead,1997,1990,country; classic country,74,387213,False
+Son Of A Preacher Man,Dusty Springfield,1969,1960,dancehall; ragga; reggae; riddim; lovers rock,73,148053,False
+Not Gonna Get Us,t.A.T.u.,2002,2000,glam rock; art rock,63,261680,False
+Free Fallin',Tom Petty,1989,1980,glam metal,82,256000,False
+Sweet Nothing (feat. Florence Welch),Calvin Harris; Florence Welch,2012,2010,britpop; soft rock,80,212560,False
+With A Little Help From My Friends - Remastered 2009,The Beatles,1967,1960,yacht rock; soft rock,64,164106,False
+Just Lose It,Eminem,2004,2000,,53,248680,True
+Blister In The Sun,Violent Femmes,1983,1980,old school hip hop; g-funk; gangster rap; west coast hip hop; hip hop; rap,74,145706,False
+The Boy Does Nothing,Alesha Dixon,2008,2000,new rave; alternative dance; indie,61,210680,False
+Love Don't Live Here Anymore,Rose Royce,1978,1970,old school hip hop; east coast hip hop; hip hop; hardcore hip hop,59,238306,False
+i'm so tired...,LAUV; Troye Sivan,2020,2020,baroque pop,72,162586,False
 No Regrets,Robbie Williams,1998,1990,,55,310600,False
-Mercy Mercy Me (The Ecology),Marvin Gaye,1971,1970,motown; classic soul; soul; northern soul; quiet storm,73,193573,False
-Unfinished Sympathy,Massive Attack; Shara Nelson,1998,1990,trip hop; downtempo; acid jazz; uk r&b,52,316160,False
-Simply Irresistible,Robert Palmer,1988,1980,yacht rock,62,254293,False
-Cha Cha Cha,Käärijä,2023,2020,finnish pop; europop,64,175161,False
-"Whenever, Wherever",Shakira,2001,2000,latin pop,79,196160,False
-(They Long To Be) Close To You,Carpenters,1970,1970,christmas; adult standards,71,273933,False
-Just the Way You Are,Bruno Mars,2010,2010,,83,220734,False
-vampire,Olivia Rodrigo,2023,2020,,86,219724,True
-Born To Be Wild,Steppenwolf,1999,1990,classic rock; acid rock,57,209400,False
-Neighbourhood,Space,1996,1990,britpop; madchester,44,208560,False
-Too Much Too Young,The Specials,1996,1990,ska; rocksteady; ska punk,37,125240,False
-Symphony,Clean Bandit; Zara Larsson,2024,2020,,57,212733,False
-It Was A Good Day,Ice Cube,2001,2000,old school hip hop; gangster rap; west coast hip hop; g-funk; hip hop,73,260079,True
-Sapphire,Ed Sheeran,2025,2020,soft pop,79,179082,False
-Music,John Miles,2012,2010,,47,353733,False
-We Are Never Ever Getting Back Together,Taylor Swift,2012,2010,,60,193146,False
-Rotterdam (Or Anywhere),The Beautiful South,1996,1990,britpop,62,215893,False
-Making Your Mind Up,Bucks Fizz,2004,2000,,49,158440,False
-ROCKSTAR (feat. Roddy Ricch),DaBaby; Roddy Ricch,2020,2020,melodic rap,77,181733,True
+Mercy Mercy Me (The Ecology),Marvin Gaye,1971,1970,eurodance; europop,73,193573,False
+Unfinished Sympathy,Massive Attack; Shara Nelson,1998,1990,classic rock; southern rock; trip hop; electroclash; art pop,52,316160,False
+Simply Irresistible,Robert Palmer,1988,1980,singer-songwriter; art pop,64,254293,False
+Cha Cha Cha,Käärijä,2023,2020,new wave; synthpop,67,175161,False
+"Whenever, Wherever",Shakira,2001,2000,,83,196160,False
+(They Long To Be) Close To You,Carpenters,1970,1970,trip hop; downtempo,72,273933,False
+Just the Way You Are,Bruno Mars,2010,2010,,84,220734,False
+vampire,Olivia Rodrigo,2023,2020,new jack swing,87,219724,True
+Born To Be Wild,Steppenwolf,1999,1990,britpop,61,209400,False
+Neighbourhood,Space,1996,1990,,45,208560,False
+Too Much Too Young,The Specials,1996,1990,,38,125240,False
+Symphony,Clean Bandit; Zara Larsson,2024,2020,downtempo; trip hop; french pop,57,212733,False
+It Was A Good Day,Ice Cube,2001,2000,britpop; madchester,70,260079,True
+Sapphire,Ed Sheeran,2025,2020,,77,179082,False
+Music,John Miles,2012,2010,,48,353733,False
+We Are Never Ever Getting Back Together,Taylor Swift,2012,2010,,61,193146,False
+Rotterdam (Or Anywhere),The Beautiful South,1996,1990,,63,215893,False
+Making Your Mind Up,Bucks Fizz,2004,2000,surf rock; rockabilly; proto-punk; native american music; psychobilly,50,158440,False
+ROCKSTAR (feat. Roddy Ricch),DaBaby; Roddy Ricch,2020,2020,soft pop; neo soul,78,181733,True
 In the Midnight Hour,Wilson Pickett,1965,1960,motown; classic soul; soul; northern soul,62,157160,False
-Supermassive Black Hole,Muse,2006,2000,alternative rock; rock,84,212439,False
-Bed Chem,Sabrina Carpenter,2024,2020,pop,84,171869,False
-Jailbreak,Thin Lizzy,1976,1970,classic rock; hard rock,57,240600,False
-"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,2016,2010,,79,236001,False
-Fell In Love With a Girl,The White Stripes,2001,2000,garage rock; blues rock; rock; alternative rock,70,110093,False
-It Must Be Love,Labi Siffre,1972,1970,,57,236986,False
-Africa,TOTO,1982,1980,yacht rock; soft rock,90,295282,False
+Supermassive Black Hole,Muse,2006,2000,synthpop; new wave,85,212439,False
+Bed Chem,Sabrina Carpenter,2024,2020,bhangra,83,171869,False
+Jailbreak,Thin Lizzy,1976,1970,,58,240600,False
+"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,2016,2010,,81,236001,False
+Fell In Love With a Girl,The White Stripes,2001,2000,,71,110093,False
+It Must Be Love,Labi Siffre,1972,1970,quiet storm; disco; classic soul,56,236986,False
+Africa,TOTO,1982,1980,,91,295282,False
 Heartbreak Hotel,Elvis Presley,2002,2000,rockabilly; rock and roll,60,127960,False
-Lithium,Nirvana,1991,1990,grunge; rock,76,257053,False
-Shut Up and Dance,WALK THE MOON,2014,2010,,87,199080,False
-For What It's Worth,Buffalo Springfield,1966,1960,folk rock; country rock,81,153693,False
-TiK ToK,Kesha,2010,2010,,87,199693,False
-Tiger Feet,Mud,2005,2000,glam rock; christmas,49,230413,False
-All About You,McFly,2005,2000,,35,186866,False
-Sussudio - 2016 Remaster,Phil Collins,1985,1980,soft rock,71,263106,False
-Sunflower - Spider-Man: Into the Spider-Verse,Post Malone; Swae Lee,2018,2010,,85,158040,False
-No Scrubs,TLC,1999,1990,,87,214400,False
-You Make My Dreams (Come True),Daryl Hall & John Oates,1980,1980,yacht rock; soft rock,82,190626,False
-You Right,Doja Cat; The Weeknd,2021,2020,,83,186173,True
-7 rings,Ariana Grande,2019,2010,pop,87,178626,True
-I Got You Babe,Sonny & Cher,1965,1960,,69,190080,False
-Dragostea din tei,O-Zone,2004,2000,europop; eurodance,73,215386,False
-I Want Your Love,CHIC,1991,1990,disco; funk,42,415466,False
-You Stole the Sun from My Heart,Manic Street Preachers,1998,1990,britpop,51,260506,False
-Am I Wrong,Nico & Vinz,2014,2010,,81,245866,False
-Lets Get Ready to Rhumble,PJ & Duncan,1994,1990,,43,238573,False
-Bitch - 2009 Mix,The Rolling Stones,1971,1970,classic rock; rock,56,217093,False
-Rule The World,Take That,2007,2000,,53,296946,False
-Dance The Night,Dua Lipa,2023,2020,pop,71,176579,False
-Cuddly Toy,Roachford,1988,1980,,47,228000,False
-Just Can't Get Enough,Depeche Mode,1981,1980,new wave; synthpop; darkwave,77,220893,False
-Human,Rag'n'Bone Man,2017,2010,,81,200192,False
-Miss Independent,Kelly Clarkson,2003,2000,christmas,45,214773,False
-Itchycoo Park,Small Faces,1967,1960,proto-punk; psychedelic rock; acid rock; northern soul,48,174160,False
-Rock 'n' Roll Suicide - 2012 Remaster,David Bowie,1972,1970,glam rock; art rock,62,178265,False
-Latest Trends,A1 x J1,2021,2020,uk drill; drill,60,158117,True
-True Blue,Madonna,1986,1980,,61,257466,False
+Lithium,Nirvana,1991,1990,hip hop; east coast hip hop; rap,77,257053,False
+Shut Up and Dance,WALK THE MOON,2014,2010,acid jazz,89,199080,False
+For What It's Worth,Buffalo Springfield,1966,1960,,83,153693,False
+TiK ToK,Kesha,2010,2010,,88,199693,False
+Tiger Feet,Mud,2004,2000,,47,230413,False
+All About You,McFly,2005,2000,,36,186866,False
+Sussudio - 2016 Remaster,Phil Collins,1985,1980,,72,263106,False
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone; Swae Lee,2018,2010,jangle pop; power pop,86,158040,False
+No Scrubs,TLC,1999,1990,,88,214400,False
+You Make My Dreams (Come True),Daryl Hall & John Oates,1980,1980,garage rock; blues rock; rock; alternative rock,84,190626,False
+You Right,Doja Cat; The Weeknd,2021,2020,trip hop; downtempo; k-pop,81,186173,True
+7 rings,Ariana Grande,2019,2010,glam rock,88,178626,True
+I Got You Babe,Sonny & Cher,1965,1960,new age; celtic,70,190080,False
+Dragostea din tei,O-Zone,2004,2000,classic soul; northern soul; soul; motown,75,215386,False
+I Want Your Love,CHIC,1991,1990,classic rock; rock,44,415466,False
+You Stole the Sun from My Heart,Manic Street Preachers,1998,1990,,52,260506,False
+Am I Wrong,Nico & Vinz,2014,2010,,84,245866,False
+Lets Get Ready to Rhumble,PJ & Duncan,1994,1990,soft pop,43,238573,False
+Bitch - 2009 Mix,The Rolling Stones,1971,1970,reggae; roots reggae,58,217093,False
+Rule The World,Take That,2007,2000,glam metal,54,296946,False
+Dance The Night,Dua Lipa,2023,2020,proto-punk; baroque pop,71,176579,False
+Cuddly Toy,Roachford,1988,1980,,48,228000,False
+Just Can't Get Enough,Depeche Mode,1981,1980,aor; classic rock,78,220893,False
+Human,Rag'n'Bone Man,2017,2010,pop punk; emo,82,200192,False
+Miss Independent,Kelly Clarkson,2003,2000,ska; rocksteady; ska punk,45,214773,False
+Itchycoo Park,Small Faces,1967,1960,edm,49,174160,False
+Rock 'n' Roll Suicide - 2012 Remaster,David Bowie,1972,1970,,61,178265,False
+Latest Trends,A1 x J1,2021,2020,,61,158117,True
+True Blue,Madonna,1986,1980,,62,257466,False
 Take Me To Church,Hozier,2014,2010,,86,241688,False
-Say You'll Be There,Spice Girls,1996,1990,,71,235973,False
-Thunder In My Heart,Leo Sayer,1977,1970,soft rock; yacht rock,45,217253,False
-Twist and Shout,Deacon Blue,1991,1990,,43,216906,False
-I'd Do Anything For Love (But I Won't Do That),Meat Loaf,1993,1990,,62,721000,False
-Sweet Caroline,Neil Diamond,1969,1960,,80,203573,False
-Little Lion Man,Mumford & Sons,2010,2010,folk; indie folk; folk rock,59,247000,True
-Talk Dirty (feat. 2 Chainz),Jason Derulo; 2 Chainz,2013,2010,southern hip hop; rap,61,177685,True
-Mr. Pitiful,Otis Redding,1992,1990,motown; soul; classic soul; soul blues,39,162159,False
-Baker Street,Gerry Rafferty,1978,1970,yacht rock,60,365626,False
-It's Raining Men,The Weather Girls,1982,1980,,67,325426,False
-The King of Rock 'N' Roll,Prefab Sprout,1988,1980,,50,262450,False
-Paint The Town Red,Doja Cat,2023,2020,,79,231750,True
-I Think I'm Paranoid,Garbage,2022,2020,,41,218134,False
-This Love,Maroon 5,2002,2000,pop,88,206200,False
-Money For Nothing - Remastered 1996,Dire Straits,1985,1980,classic rock,80,505333,True
-Judas,Lady Gaga,2011,2010,art pop; pop,84,249066,False
-Boogie Shoes,KC & The Sunshine Band,2009,2000,disco,47,139800,False
-STAY (with Justin Bieber),The Kid LAROI; Justin Bieber,2021,2020,,82,141805,True
-I Feel the Earth Move,Carole King,1971,1970,singer-songwriter; folk rock,66,178849,False
-Makeba,Jain,2016,2010,french pop,65,248986,False
-The Tracks Of My Tears,Smokey Robinson & The Miracles,1965,1960,motown; classic soul; northern soul; soul,63,174360,False
-Unbelievable,EMF,1991,1990,madchester,68,209813,True
+Say You'll Be There,Spice Girls,1996,1990,,72,235973,False
+Thunder In My Heart,Leo Sayer,1977,1970,,46,217253,False
+Twist and Shout,Deacon Blue,1991,1990,britpop; madchester,45,216906,False
+I'd Do Anything For Love (But I Won't Do That),Meat Loaf,1993,1990,dansk pop,62,721000,False
+Sweet Caroline,Neil Diamond,1969,1960,,82,203573,False
+Little Lion Man,Mumford & Sons,2010,2010,funk; soul; motown; classic soul,59,247000,True
+Talk Dirty (feat. 2 Chainz),Jason Derulo; 2 Chainz,2013,2010,soft rock; britpop,61,177685,True
+Mr. Pitiful,Otis Redding,1992,1990,,40,162159,False
+Baker Street,Gerry Rafferty,1978,1970,proto-punk,61,365626,False
+It's Raining Men,The Weather Girls,1982,1980,,70,325426,False
+The King of Rock 'N' Roll,Prefab Sprout,1988,1980,,51,262450,False
+Paint The Town Red,Doja Cat,2023,2020,trip hop; downtempo,79,231750,True
+I Think I'm Paranoid,Garbage,2022,2020,alternative rock; rock,42,218134,False
+This Love,Maroon 5,2002,2000,,89,206200,False
+Money For Nothing - Remastered 1996,Dire Straits,1985,1980,synthpop; new wave,81,505333,True
+Judas,Lady Gaga,2011,2010,,84,249066,False
+Boogie Shoes,KC & The Sunshine Band,2009,2000,edm,48,139800,False
+STAY (with Justin Bieber),The Kid LAROI; Justin Bieber,2021,2020,classic rock; hard rock,84,141805,True
+I Feel the Earth Move,Carole King,1971,1970,score,67,178849,False
+Makeba,Jain,2016,2010,country; classic country,66,248986,False
+The Tracks Of My Tears,Smokey Robinson & The Miracles,1965,1960,,64,174360,False
+Unbelievable,EMF,1991,1990,,70,209813,True
 Whistle For The Choir,The Fratellis,2006,2000,,61,215813,False
-Woman - Remastered 2010,John Lennon,1980,1980,christmas,65,212933,False
-Da Funk,Daft Punk,1997,1990,french house; electronic; electro,68,328680,False
-"Men In Black - From ""Men In Black"" Soundtrack",Will Smith,1997,1990,,68,227266,False
-"Heaven Is a Place on Earth - Promo 7"" Edit",Belinda Carlisle,1987,1980,,77,233666,False
-B.O.T.A. (Baddest Of Them All) - Edit,Eliza Rose; Interplanetary Criminal,2022,2020,house; uk garage; breakbeat,74,226626,False
-Come and Get Your Love - Single Version,Redbone,1973,1970,native american music,82,205933,False
-Gypsy,Fleetwood Mac,1988,1980,yacht rock; classic rock; soft rock,81,264906,False
-Lost Without You,Freya Ridings,2019,2010,,60,225853,False
-The Pretender,Foo Fighters,2007,2000,rock; post-grunge; alternative rock; grunge,81,269306,False
-Boogie Nights,Heatwave,1977,1970,disco; funk,61,303640,False
-Dazed and Confused - 1990 Remaster,Led Zeppelin,1969,1960,classic rock; rock; hard rock; rock and roll,66,386373,False
-The Wire,HAIM,2013,2010,,59,245800,False
-Keep The Faith,Bon Jovi,1992,1990,glam metal,63,346533,False
-Love Shack,The B-52's,1989,1980,new wave; post-punk,73,320680,False
-Story of My Life,One Direction,2013,2010,,86,245490,False
-Space Oddity - 1999 Remaster,David Bowie,2002,2000,glam rock; art rock,45,316333,False
-Prom Queen,Beach Bunny,2018,2010,,83,136562,False
-Up on the Roof,The Drifters,1964,1960,doo-wop; motown,59,157173,False
-World of Our Own,Westlife,2001,2000,,64,211413,False
+Woman - Remastered 2010,John Lennon,1980,1980,,65,212933,False
+Da Funk,Daft Punk,1997,1990,soul; motown; classic soul,66,328680,False
+"Men In Black - From ""Men In Black"" Soundtrack",Will Smith,1997,1990,italo dance; eurodance,69,227266,False
+"Heaven Is a Place on Earth - Promo 7"" Edit",Belinda Carlisle,1987,1980,christmas,80,233666,False
+B.O.T.A. (Baddest Of Them All) - Edit,Eliza Rose; Interplanetary Criminal,2022,2020,folk punk; baroque pop; britpop; comedy,76,226626,False
+Come and Get Your Love - Single Version,Redbone,1973,1970,motown,83,205933,False
+Gypsy,Fleetwood Mac,1988,1980,,81,264906,False
+Lost Without You,Freya Ridings,2019,2010,soft rock; yacht rock,59,225853,False
+The Pretender,Foo Fighters,2007,2000,,82,269306,False
+Boogie Nights,Heatwave,1977,1970,alternative rock,62,303640,False
+Dazed and Confused - 1990 Remaster,Led Zeppelin,1969,1960,folk; indie folk; folk rock,66,386373,False
+The Wire,HAIM,2013,2010,rock; glam metal; hard rock; classic rock,60,245800,False
+Keep The Faith,Bon Jovi,1992,1990,,63,346533,False
+Love Shack,The B-52's,1989,1980,christmas,75,320680,False
+Story of My Life,One Direction,2013,2010,synthpop; new wave,87,245490,False
+Space Oddity - 1999 Remaster,David Bowie,2002,2000,,47,316333,False
+Prom Queen,Beach Bunny,2018,2010,,55,136562,False
+Up on the Roof,The Drifters,1964,1960,,60,157173,False
+World of Our Own,Westlife,2001,2000,motown; soul; classic soul; soul blues,65,211413,False
 Wide Boy,Nik Kershaw,1984,1980,,37,208120,False
 Lavender Haze,Taylor Swift,2022,2020,,73,202395,True
-Teenage Kicks,The Undertones,1979,1970,power pop; punk; proto-punk; new wave,61,148160,False
-Ironic,Alanis Morissette,2005,2000,,65,228573,False
-Young Folks,Peter Bjorn and John,2006,2000,indie,81,276693,False
-The Boy With the Arab Strap,Belle and Sebastian,1998,1990,baroque pop,59,314066,False
-Stayin Alive,Bee Gees,2020,2020,disco,76,285373,False
-She Looks So Perfect,5 Seconds of Summer,2014,2010,,74,202496,False
-DARE (feat. Shaun Ryder & Roses Gabor),Gorillaz; Shaun Ryder; Roses Gabor,2005,2000,,84,244999,False
-On Hold,The xx,2017,2010,,61,224133,False
-Whatever,Oasis,1994,1990,britpop; madchester,51,381266,False
-Stars,Simply Red,1991,1990,soft rock,78,248599,False
-The Bones of You,Elbow,2008,2000,,45,289026,False
-Could You Be Loved,Bob Marley & The Wailers,1980,1980,reggae; roots reggae,86,237000,False
-Taxman - Remastered 2009,The Beatles,1966,1960,classic rock; psychedelic rock,60,158853,False
-And She Was - 2005 Remaster,Talking Heads,1985,1980,new wave; post-punk,64,219413,False
-Behind Blue Eyes,The Who,1971,1970,classic rock; rock,67,221426,False
-Hi Ren,Ren,2022,2020,,68,515000,True
-Thinking out Loud,Ed Sheeran,2014,2010,soft pop,86,281560,False
-Welcome to Paradise,Green Day,1994,1990,punk; pop punk,72,224133,False
-Scandalous - U.S. Radio Edit,Mis-Teeq,2004,2000,uk garage,65,238840,False
-Crash,The Primitives,1988,1980,jangle pop; power pop,54,151693,False
-Please Mr. Postman,The Marvelettes,2009,2000,motown; northern soul; doo-wop; classic soul,50,149400,False
-Streets,Doja Cat,2019,2010,,86,226978,True
-Lies,McFly,2012,2010,,34,224426,False
-Let’s Go Home Together,Ella Henderson; Tom Grennan,2021,2020,,50,208692,False
-Brick House,Commodores,1977,1970,motown; classic soul,69,208893,False
-Do I Wanna Know?,Arctic Monkeys,2013,2010,indie; garage rock,89,272394,False
-You Give Love A Bad Name,Bon Jovi,1986,1980,glam metal,79,222706,False
-Bat Out of Hell,Meat Loaf,1977,1970,,54,590000,False
-Shake Ya Ass (feat. Pharrell Williams),Mystikal; Pharrell Williams,2000,2000,southern hip hop; crunk; old school hip hop; gangster rap,62,256972,True
-Now And Then,The Beatles,2023,2020,classic rock; psychedelic rock,65,248333,False
-Reach Out I'll Be There,Four Tops,1967,1960,motown; northern soul; classic soul; soul,67,178533,False
-Seven Days,Sting,1993,1990,soft rock,58,278200,False
-Mama,Jonas Blue; William Singe,2018,2010,tropical house,75,184133,False
-The Man with the Golden Gun (Main Title),Lulu,1974,1970,,43,154893,False
-Centerfold,The J. Geils Band,1981,1980,classic rock,72,216533,False
-Electric Feel,MGMT,2007,2000,indie,83,229640,False
-Take on Me,a-ha,1985,1980,new wave; synthpop,89,225280,False
-King,Olly Alexander (Years & Years),2015,2010,,65,215360,False
-Golden Years - 2016 Remaster,David Bowie,1976,1970,glam rock; art rock,66,243280,False
-Time is Running Out,Muse,2003,2000,alternative rock; rock,76,236535,False
-Give Me Just A Little More Time,Chairmen Of The Board,1989,1980,northern soul; motown; classic soul; soul,47,160240,False
-Killer,Adamski; Seal,1990,1990,acid house,60,250760,False
-When She Was Mine,Lawson,2012,2010,,38,218546,False
-Babooshka,Kate Bush,1980,1980,art pop; baroque pop; art rock,62,209933,False
-"Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",U2,2002,2000,rock,42,286840,False
-Pink,Lizzo,2023,2020,,56,143833,False
-There She Goes Again,The Velvet Underground; Nico,1967,1960,proto-punk; art rock,49,161026,False
-We Built This City,Starship,1985,1980,,79,296080,False
-Giant (with Rag'n'Bone Man),Calvin Harris; Rag'n'Bone Man,2019,2010,edm,68,229184,False
-Who Let The Dogs Out,Baha Men,2000,2000,,71,198400,False
-Everything About You,Ugly Kid Joe,1992,1990,glam metal,58,260200,True
-Lovin On Me,Jack Harlow,2023,2020,,81,138411,True
-A Design for Life,Manic Street Preachers,2002,2000,britpop,38,260838,False
-Life's Been Good,Joe Walsh,1978,1970,classic rock; southern rock,69,536226,False
-Standing In the Way of Control,Gossip,2005,2000,riot grrrl; queercore,54,256398,False
-When Smokey Sings,ABC,1987,1980,new wave; synthpop,54,259293,False
-Pompeii,Bastille,2013,2010,,77,214147,False
-Mrs. Robinson,Simon & Garfunkel,2001,2000,folk rock; folk,53,230733,False
-The Wild Boys,Duran Duran,1998,1990,new wave; synthpop,59,257600,False
+Teenage Kicks,The Undertones,1979,1970,,61,148160,False
+Ironic,Alanis Morissette,2005,2000,,66,228573,False
+Young Folks,Peter Bjorn and John,2006,2000,synthpop; new wave,83,276693,False
+The Boy With the Arab Strap,Belle and Sebastian,1998,1990,,61,314066,False
+Stayin Alive,Bee Gees,2020,2020,,77,285373,False
+She Looks So Perfect,5 Seconds of Summer,2014,2010,uk r&b,76,202496,False
+DARE (feat. Shaun Ryder & Roses Gabor),Gorillaz; Shaun Ryder; Roses Gabor,2005,2000,funk; motown; disco,84,244999,False
+On Hold,The xx,2017,2010,,64,224133,False
+Whatever,Oasis,1994,1990,,51,381266,False
+Stars,Simply Red,1991,1990,alternative dance; new rave,78,248599,False
+The Bones of You,Elbow,2008,2000,singer-songwriter,45,289026,False
+Could You Be Loved,Bob Marley & The Wailers,1980,1980,dance pop,88,237000,False
+Taxman - Remastered 2009,The Beatles,1966,1960,yacht rock; soft rock,61,158853,False
+And She Was - 2005 Remaster,Talking Heads,1985,1980,,65,219413,False
+Behind Blue Eyes,The Who,1971,1970,eurodance; europop,72,221426,False
+Hi Ren,Ren,2022,2020,proto-punk,68,515000,True
+Thinking out Loud,Ed Sheeran,2014,2010,,86,281560,False
+Welcome to Paradise,Green Day,1994,1990,edm; progressive house; electronica,73,224133,False
+Scandalous - U.S. Radio Edit,Mis-Teeq,2004,2000,,59,238840,False
+Crash,The Primitives,1988,1980,nu metal; rap metal; alternative metal; rap rock; rock,55,151693,False
+Please Mr. Postman,The Marvelettes,2009,2000,jazz rap; east coast hip hop,51,149400,False
+Streets,Doja Cat,2019,2010,trip hop; downtempo,85,226978,True
+Lies,McFly,2012,2010,,35,224426,False
+Let’s Go Home Together,Ella Henderson; Tom Grennan,2021,2020,,51,208692,False
+Brick House,Commodores,1977,1970,,70,208893,False
+Do I Wanna Know?,Arctic Monkeys,2013,2010,house,90,272394,False
+You Give Love A Bad Name,Bon Jovi,1986,1980,,79,222706,False
+Bat Out of Hell,Meat Loaf,1977,1970,dansk pop,55,590000,False
+Shake Ya Ass (feat. Pharrell Williams),Mystikal; Pharrell Williams,2000,2000,new wave; synthpop; garage rock,63,256972,True
+Now And Then,The Beatles,2023,2020,yacht rock; soft rock,64,248333,False
+Reach Out I'll Be There,Four Tops,1967,1960,,68,178533,False
+Seven Days,Sting,1993,1990,,59,278200,False
+Mama,Jonas Blue; William Singe,2018,2010,grime; uk grime,76,184133,False
+The Man with the Golden Gun (Main Title),Lulu,1974,1970,synthpop; new wave,44,154893,False
+Centerfold,The J. Geils Band,1981,1980,big beat,74,216533,False
+Electric Feel,MGMT,2007,2000,indie,84,229640,False
+Take on Me,a-ha,1985,1980,,90,225280,False
+King,Olly Alexander (Years & Years),2015,2010,old school hip hop; east coast hip hop,66,215360,False
+Golden Years - 2016 Remaster,David Bowie,1976,1970,,69,243280,False
+Time is Running Out,Muse,2003,2000,synthpop; new wave,77,236535,False
+Give Me Just A Little More Time,Chairmen Of The Board,1989,1980,glam rock; blues rock,47,160240,False
+Killer,Adamski; Seal,1990,1990,disco,63,250760,False
+When She Was Mine,Lawson,2012,2010,doo-wop; rock and roll,40,218546,False
+Babooshka,Kate Bush,1980,1980,,62,209933,False
+"Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",U2,2002,2000,new wave,42,286840,False
+Pink,Lizzo,2023,2020,,57,143833,False
+There She Goes Again,The Velvet Underground; Nico,1967,1960,k-pop,50,161026,False
+We Built This City,Starship,1985,1980,motown,80,296080,False
+Giant (with Rag'n'Bone Man),Calvin Harris; Rag'n'Bone Man,2019,2010,britpop; pop punk; emo,71,229184,False
+Who Let The Dogs Out,Baha Men,2000,2000,exotica,73,198400,False
+Everything About You,Ugly Kid Joe,1992,1990,new wave; post-punk,59,260200,True
+Lovin On Me,Jack Harlow,2023,2020,anti-folk,82,138411,True
+A Design for Life,Manic Street Preachers,2002,2000,,40,260838,False
+Life's Been Good,Joe Walsh,1978,1970,,72,536226,False
+Standing in the Way of Control,Gossip,2006,2000,motown; northern soul; classic soul; soul,57,256400,False
+When Smokey Sings,ABC,1987,1980,disco; funk,55,259293,False
+Pompeii,Bastille,2013,2010,edm,78,214147,False
+Mrs. Robinson,Simon & Garfunkel,2001,2000,acid house,53,230733,False
+The Wild Boys,Duran Duran,1998,1990,classic rock; hard rock,60,257600,False
 greedy,Tate McRae,2023,2020,,87,131872,True
-Made Of Stone,The Stone Roses,1989,1980,madchester; britpop; jangle pop,26,255520,False
-Why Does My Heart Feel So Bad?,Moby,1999,1990,downtempo; trip hop,68,264840,False
-Disaster (feat. J Hus),Dave; J Hus,2019,2010,grime; uk grime; uk drill; drill; afroswing; afrobeats,62,240160,True
-Hold the Line,TOTO,1978,1970,yacht rock; soft rock,84,235552,False
-Cold Shoulder,Adele,2008,2000,soft pop,47,191866,False
-Around the World,East 17,1994,1990,christmas,42,273733,False
-Somewhere I Belong,Linkin Park,2003,2000,nu metal; rap metal; rock; alternative metal,86,213933,False
-You Make Me Feel Brand New,The Stylistics,1973,1970,philly soul; classic soul; motown; quiet storm,65,288440,False
-Another One Bites The Dust - Remastered 2011,Queen,1980,1980,classic rock; rock; glam rock,84,214653,False
-Goldfinger,Shirley Bassey,1995,1990,easy listening,38,168733,False
-Something Just Like This,The Chainsmokers; Coldplay,2017,2010,,89,247160,False
-Boom Boom Boom,The Outhere Brothers,2000,2000,chicago house; hip house; eurodance,47,204071,False
-Walk Away,Franz Ferdinand,2005,2000,indie rock,56,222346,False
-K-POP,Travis Scott; Bad Bunny; The Weeknd,2023,2020,rap; reggaeton; trap latino; latin; urbano latino,71,185220,True
-Let The Music Play,Barry White,2009,2000,disco; soul; classic soul; quiet storm; philly soul,50,213400,False
-Road to Nowhere - 2005 Remaster,Talking Heads,1985,1980,new wave; post-punk,66,260213,False
-Last Resort,Papa Roach,2000,2000,nu metal; rap metal; alternative metal; rap rock; rock,85,199906,True
-Band of Gold,Freda Payne,2014,2010,northern soul; motown; classic soul,38,174226,False
-Hold On,Wilson Phillips,1990,1990,,71,266866,False
-I Don't Care (with Justin Bieber),Ed Sheeran & Justin Bieber; Justin Bieber,2019,2010,,76,219946,False
-Vienna,Ultravox,2020,2020,synthpop; new wave,53,294146,False
-You Held the World in Your Arms,Idlewild,2002,2000,britpop,44,202435,False
-The Beautiful People,Marilyn Manson,1996,1990,industrial metal; industrial rock; industrial; metal; nu metal,76,218826,True
-Ain't Nobody Home,B.B. King,1971,1970,blues; classic blues; soul blues; blues rock,33,194400,False
-Holding Back The Years,Simply Red,2010,2010,soft rock,53,252293,False
-Love Story,Taylor Swift,2008,2000,,79,236266,False
-Twenty Four Hours From Tulsa,Gene Pitney,1972,1970,,45,177720,False
-Boy's a liar Pt. 2,PinkPantheress; Ice Spice,2023,2020,bedroom pop,77,131013,True
-Movin' on Up,Primal Scream,1991,1990,madchester; britpop; alternative dance,62,228266,False
-Without Me,Eminem,2002,2000,rap; hip hop,90,290320,True
-Easy,Commodores,1977,1970,motown; classic soul,80,256426,False
-While My Guitar Gently Weeps - Remastered 2009,The Beatles,1968,1960,classic rock; psychedelic rock,74,285000,False
-Stick Season,Noah Kahan,2022,2020,,87,182346,False
-What a Beautiful Day,Levellers,1997,1990,celtic rock; folk punk; celtic punk; folk rock; britpop,40,244599,False
-About You Now,Sugababes,2007,2000,,68,212400,False
-Have a Cigar,Pink Floyd,1975,1970,progressive rock; psychedelic rock; classic rock; art rock; rock,76,307400,False
-Drive,R.E.M.,1992,1990,jangle pop; alternative rock; rock,66,271333,False
-Hurtin' Me,Stefflon Don; French Montana,2017,2010,dancehall,67,212815,False
-Everywhere,Fleetwood Mac,1988,1980,yacht rock; classic rock; soft rock,72,222733,False
-Cough Cough,Everything Everything,2013,2010,,38,222386,False
-Abracadabra,Steve Miller Band,1982,1980,classic rock,71,308373,False
-Paparazzi,Lady Gaga,2008,2000,art pop; pop,82,208306,True
-Lust For Life,Iggy Pop,1977,1970,proto-punk; glam rock,65,313925,False
-Hold Me While You Wait,Lewis Capaldi,2019,2010,soft pop,77,205686,False
+Made Of Stone,The Stone Roses,1989,1980,new wave; synthpop,29,255520,False
+Why Does My Heart Feel So Bad?,Moby,1999,1990,,70,264840,False
+Disaster (feat. J Hus),Dave; J Hus,2019,2010,hi-nrg; synthpop,62,240160,True
+Hold the Line,TOTO,1978,1970,,85,235552,False
+Cold Shoulder,Adele,2008,2000,,47,191866,False
+Around the World,East 17,1994,1990,indie rock,44,273733,False
+Somewhere I Belong,Linkin Park,2003,2000,christmas,86,213933,False
+You Make Me Feel Brand New,The Stylistics,1973,1970,funk rock; alternative rock; rock,66,288440,False
+Another One Bites The Dust - Remastered 2011,Queen,1980,1980,britpop,85,214653,False
+Goldfinger,Shirley Bassey,1995,1990,native american music,38,168733,False
+Something Just Like This,The Chainsmokers; Coldplay,2017,2010,yacht rock,90,247160,False
+Boom Boom Boom,The Outhere Brothers,2000,2000,reggaeton; trap latino; latin; urbano latino,47,204071,False
+Walk Away,Franz Ferdinand,2005,2000,jangle pop; alternative rock; rock,56,222346,False
+K-POP,Travis Scott; Bad Bunny; The Weeknd,2023,2020,k-pop,72,185220,True
+Let The Music Play,Barry White,2009,2000,,51,213400,False
+Road to Nowhere - 2005 Remaster,Talking Heads,1985,1980,,66,260213,False
+Last Resort,Papa Roach,2000,2000,glam rock; proto-punk,87,199906,True
+Band of Gold,Freda Payne,2014,2010,,17,174226,False
+Hold On,Wilson Phillips,1990,1990,britpop; madchester; jangle pop; new wave,73,266866,False
+I Don't Care (with Justin Bieber),Ed Sheeran & Justin Bieber; Justin Bieber,2019,2010,singer-songwriter,76,219946,False
+Vienna,Ultravox,2020,2020,trip hop; acid jazz; uk r&b,53,294146,False
+You Held the World in Your Arms,Idlewild,2003,2000,,40,202435,False
+The Beautiful People,Marilyn Manson,1996,1990,,77,218826,True
+Ain't Nobody Home,B.B. King,1971,1970,uk funky,34,194400,False
+Holding Back The Years,Simply Red,2010,2010,alternative dance; new rave,54,252293,False
+Love Story,Taylor Swift,2008,2000,,81,236266,False
+Twenty Four Hours From Tulsa,Gene Pitney,1972,1970,motown; classic soul; soul,46,177720,False
+Boy's a liar Pt. 2,PinkPantheress; Ice Spice,2023,2020,proto-punk; post-punk; art rock; new wave; alternative rock,77,131013,True
+Movin' on Up,Primal Scream,1991,1990,,63,228266,False
+Without Me,Eminem,2002,2000,,91,290320,True
+Easy,Commodores,1977,1970,,81,256426,False
+While My Guitar Gently Weeps - Remastered 2009,The Beatles,1968,1960,yacht rock; soft rock,75,285000,False
+Stick Season,Noah Kahan,2022,2020,comedy; spoken word,88,182346,False
+What a Beautiful Day,Levellers,1997,1990,,45,244599,False
+About You Now,Sugababes,2007,2000,new jack swing,68,212400,False
+Have a Cigar,Pink Floyd,1975,1970,doo-wop,76,307400,False
+Drive,R.E.M.,1992,1990,eurodance,66,271333,False
+Hurtin' Me,Stefflon Don; French Montana,2017,2010,soft pop,68,212815,False
+Everywhere,Fleetwood Mac,1988,1980,,73,222733,False
+Cough Cough,Everything Everything,2013,2010,post-disco; jazz funk,39,222386,False
+Abracadabra,Steve Miller Band,1982,1980,progressive rock; psychedelic rock; classic rock; art rock; rock,73,308373,False
+Paparazzi,Lady Gaga,2008,2000,,83,208306,True
+Lust For Life,Iggy Pop,1977,1970,,67,313925,False
+Hold Me While You Wait,Lewis Capaldi,2019,2010,progressive rock; art rock,77,205686,False
 Need You Tonight,INXS,1987,1980,,75,181106,False
-Love Is All Around,The Troggs,1991,1990,proto-punk,50,177666,False
-People,Libianca,2022,2020,afrobeats; afrobeat,78,184791,False
-Ordinary People,John Legend,2005,2000,soft pop; neo soul,65,281466,False
-Cigarettes & Alcohol,Oasis,1994,1990,britpop; madchester,57,289373,True
-Steal My Girl,One Direction,2014,2010,,84,228138,False
-Right Back Where We Started From,Maxine Nightingale,2020,2020,,70,192266,False
-Red Alert,Basement Jaxx,1999,1990,big beat,51,257400,False
-Friday I'm In Love,The Cure,1992,1990,new wave; post-punk; gothic rock; darkwave,81,215160,False
-I Shot The Sheriff,Bob Marley & The Wailers,2002,2000,reggae; roots reggae,62,280466,False
-Jiggle Jiggle (with Duke & Jones),Louis Theroux; Duke & Jones,2022,2020,,59,97208,False
-U Got the Look,Prince,1987,1980,funk; funk rock,47,227706,False
-I Want You,Bob Dylan,1966,1960,folk rock; folk; singer-songwriter; roots rock,59,188602,False
-Only God Knows,Young Fathers; Leith Congregational Choir,2017,2010,experimental hip hop,41,231750,False
-True,Spandau Ballet,1986,1980,new wave; synthpop,63,365160,False
-The Fear,Lily Allen,2009,2000,,56,207120,True
-Rat Trap,The Boomtown Rats,1978,1970,new wave,51,310773,False
-Danger! High Voltage - 2025 Remaster,Electric Six,2025,2020,garage rock,25,215488,False
-How Long,Ace,1974,1970,yacht rock; soft rock,69,204226,False
-Get the Party Started,P!nk,2001,2000,,72,192533,False
-Achy Breaky Heart,Billy Ray Cyrus,1992,1990,,72,203373,False
-Arthur's Theme (Best That You Can Do),Christopher Cross,2008,2000,yacht rock; soft rock,77,234493,False
-Leave Before The Lights Come On,Arctic Monkeys,2006,2000,indie; garage rock,62,233946,False
-Jungle Boogie,Kool & The Gang,1973,1970,disco; funk,64,186533,False
-Only Love Can Hurt Like This,Paloma Faith,2014,2010,,82,232893,False
-Dancing On The Ceiling,Lionel Richie,1986,1980,motown,69,270720,False
-You're Gorgeous,Babybird,1996,1990,britpop,58,222440,False
-Whatever You Want,Status Quo,1979,1970,glam rock; blues rock,64,243546,False
-Calm Down (with Selena Gomez),Rema; Selena Gomez,2022,2020,afrobeats; afrobeat; afropop; afropiano,82,239317,False
-Mah Nà Mah Nà,Piero Umiliani,2009,2000,exotica,44,116559,False
-Roar,Katy Perry,2013,2010,pop,74,223546,False
-U Can't Touch This,MC Hammer,1990,1990,,76,257359,False
-I Don't Want to Know - 2004 Remaster,Fleetwood Mac,1977,1970,yacht rock; classic rock; soft rock,68,196853,False
-Let's Dance,Chris Montez,1962,1960,,52,149626,False
-This Is A Life,Son Lux; Mitski; David Byrne,2022,2020,art rock; art pop,44,161022,False
-Easy Lover,Philip Bailey; Phil Collins,1985,1980,yacht rock; soft rock,71,304506,False
-Brown Sugar,The Rolling Stones,1971,1970,classic rock; rock,55,229173,False
-Ciao Adios,Anne-Marie,2018,2010,,68,199773,False
+Love Is All Around,The Troggs,1991,1990,,49,177666,False
+People,Libianca,2022,2020,proto-punk; psychedelic rock; acid rock; northern soul,78,184791,False
+Ordinary People,John Legend,2005,2000,nu metal; rap metal; rock; alternative metal,65,281466,False
+Cigarettes & Alcohol,Oasis,1994,1990,,58,289373,True
+Steal My Girl,One Direction,2014,2010,synthpop; new wave,86,228138,False
+Right Back Where We Started From,Maxine Nightingale,2020,2020,,73,192266,False
+Red Alert,Basement Jaxx,1999,1990,,51,257400,False
+Friday I'm In Love,The Cure,1992,1990,folk rock; folk; singer-songwriter; roots rock,82,215160,False
+I Shot The Sheriff,Bob Marley & The Wailers,2002,2000,dance pop,64,280466,False
+Jiggle Jiggle (with Duke & Jones),Louis Theroux; Duke & Jones,2022,2020,new wave,60,97208,False
+U Got the Look,Prince,1987,1980,,49,227706,False
+I Want You,Bob Dylan,1966,1960,eurodance,60,188602,False
+Only God Knows,Young Fathers; Leith Congregational Choir,2017,2010,britpop; indie; indie rock; motown; northern soul; classic soul; soul,42,231750,False
+True,Spandau Ballet,1986,1980,folk rock; country rock; singer-songwriter,64,365160,False
+The Fear,Lily Allen,2009,2000,,57,207120,True
+Rat Trap,The Boomtown Rats,1978,1970,hip hop,49,310773,False
+Danger! High Voltage - 2025 Remaster,Electric Six,2025,2020,comedy,26,215488,False
+How Long,Ace,1974,1970,christmas,70,204226,False
+Get the Party Started,P!nk,2001,2000,classic rock,73,192533,False
+Achy Breaky Heart,Billy Ray Cyrus,1992,1990,emo; pop punk,74,203373,False
+Arthur's Theme (Best That You Can Do),Christopher Cross,2008,2000,bedroom pop,78,234493,False
+Leave Before The Lights Come On,Arctic Monkeys,2006,2000,house,63,233946,False
+Jungle Boogie,Kool & The Gang,1973,1970,pop,64,186533,False
+Only Love Can Hurt Like This,Paloma Faith,2014,2010,,83,232893,False
+Dancing On The Ceiling,Lionel Richie,1986,1980,,69,270720,False
+You're Gorgeous,Babybird,1996,1990,,60,222440,False
+Whatever You Want,Status Quo,1979,1970,northern soul; motown; classic soul; soul,65,243546,False
+Calm Down (with Selena Gomez),Rema; Selena Gomez,2022,2020,madchester; britpop; jangle pop,82,239317,False
+Mah Nà Mah Nà,Piero Umiliani,2009,2000,,45,116559,False
+Roar,Katy Perry,2013,2010,,75,223546,False
+U Can't Touch This,MC Hammer,1990,1990,philly soul; classic soul; motown; quiet storm,77,257359,False
+I Don't Want to Know - 2004 Remaster,Fleetwood Mac,1977,1970,,69,196853,False
+Let's Dance,Chris Montez,1962,1960,,51,149626,False
+This Is A Life,Son Lux; Mitski; David Byrne,2022,2020,,45,161022,False
+Easy Lover,Philip Bailey; Phil Collins,1985,1980,uk drill; drill; uk grime,71,304506,False
+Brown Sugar,The Rolling Stones,1971,1970,reggae; roots reggae,56,229173,False
+Ciao Adios,Anne-Marie,2018,2010,glam rock; hard rock; glam metal; proto-punk; classic rock,69,199773,False
 Old Before I Die,Robbie Williams,1997,1990,,50,233626,False
-Kokomo,The Beach Boys,2003,2000,baroque pop,75,217692,False
-Harper Valley P.T.A.,Jeannie C. Riley,2013,2010,classic country,57,194400,False
-If I Were a Boy,Beyoncé,2008,2000,,74,249866,False
-Infinity,Guru Josh,1990,1990,eurodance,58,241506,False
-Nothing Matters,The Last Dinner Party,2024,2020,,72,182623,True
-Superstition - Single Version,Stevie Wonder,2002,2000,motown; classic soul; soul,76,245493,False
-Zombie,The Cranberries,2008,2000,,75,307520,False
-Summer Night City,ABBA,1979,1970,,59,214706,False
-Scream (Funk My Life Up),Paolo Nutini,2014,2010,,54,189566,False
-King of My Castle (Roy Malone's King Radio Edit),Wamdue Project; Roy Malone,2023,2020,,67,209026,False
-Nobody Does It Better,Carly Simon,1977,1970,,58,212666,False
+Kokomo,The Beach Boys,2003,2000,trap soul,77,217692,False
+Harper Valley P.T.A.,Jeannie C. Riley,2013,2010,,58,194400,False
+If I Were a Boy,Beyoncé,2008,2000,,75,249866,False
+Infinity,Guru Josh,1990,1990,motown; northern soul; doo-wop; classic soul,61,241506,False
+Nothing Matters,The Last Dinner Party,2024,2020,soft rock,72,182623,True
+Superstition - Single Version,Stevie Wonder,2002,2000,,78,245493,False
+Zombie,The Cranberries,2008,2000,,76,307520,False
+Summer Night City,ABBA,1979,1970,,61,214706,False
+Scream (Funk My Life Up),Paolo Nutini,2014,2010,,55,189566,False
+King of My Castle (Roy Malone's King Radio Edit),Wamdue Project; Roy Malone,2023,2020,metalcore; emo; rock; screamo; metal; post-hardcore; indie,67,209026,False
+Nobody Does It Better,Carly Simon,1977,1970,,57,212666,False
+Lola (2020 Stereo Remaster),The Kinks,1970,1970,,74,241991,False
+Bodak Yellow,Cardi B,2018,2010,,76,223712,True
+I'm into Something Good,Herman's Hermits,2004,2000,grime,49,153240,False
+Call Me,Spagna,2014,2010,new wave; synthpop; darkwave,41,273956,False
+Love Don't Cost a Thing,Jennifer Lopez,2001,2000,disco; motown; philly soul,71,221226,False
+Show You the Way to Go,The Jacksons,1976,1970,celtic rock; folk punk; celtic punk; folk rock; britpop,53,329596,False
+Don't You Worry Child,Swedish House Mafia; John Martin,2012,2010,madchester; britpop; jangle pop,72,403493,False
+Computer Love - 2009 Remaster,Kraftwerk,1981,1980,disco,50,439440,False
+Dancer,IDLES; LCD Soundsystem,2024,2020,doo-wop,61,189493,False
+Under the Bridge,Red Hot Chili Peppers,1991,1990,,88,264306,False
+California Dreamin',The Mamas & The Papas,2001,2000,,77,160373,False
+Spotlight,Jessie Ware,2020,2020,indie rock; indie,53,331933,False
+Boston Tea Party - Remastered 2002,The Sensational Alex Harvey Band,2018,2010,,21,276394,False
+Kiss Me,Sixpence None The Richer,1997,1990,,87,208680,False
+White Noise,Disclosure; AlunaGeorge,2013,2010,classic soul; soul; motown; funk; rap,61,277687,False
+Love Will Tear Us Apart,Joy Division,2008,2000,uk garage,67,206866,False
+Move On Up,Curtis Mayfield,2020,2020,,65,165789,False
+Love Song,Sara Bareilles,2007,2000,,75,258483,False
+Wonderful Life,Black,1987,1980,madchester,70,287933,False
+Every Breath You Take,The Police,1983,1980,,94,253920,False
+Somebody To Love - Remastered 2011,Queen,1976,1970,britpop,77,296480,False
+Dreaming of You,The Coral,2002,2000,britpop,63,141000,False
+I Want You Back,*NSYNC,1998,1990,latin pop,46,199936,False
+The Fox (What Does the Fox Say?),Ylvis,2013,2010,,70,213708,False
+Love Is A Long Road,Tom Petty,1989,1980,glam metal,70,247600,False
+My Name Is Prince,Prince,1992,1990,,39,398333,True
+Top Of The World,Carpenters,1972,1970,trip hop; downtempo,72,179173,False
+I'm Just Ken,Ryan Gosling,2023,2020,christmas; adult standards; big band; swing music,62,222633,False
+Fire,Jimi Hendrix,1967,1960,,59,163800,False
+Beat It,Michael Jackson,1982,1980,indie; indie rock,97,258296,False
+Gangnam Style (강남스타일),PSY,2012,2010,motown; northern soul; classic soul,79,219493,False
+Wishing on a Star,Rose Royce,1977,1970,old school hip hop; east coast hip hop; hip hop; hardcore hip hop,65,291760,False
+"Sugar, We're Goin Down",Fall Out Boy,2005,2000,britpop; indie,83,229093,False
+Basket Case,Green Day,1994,1990,edm; progressive house; electronica,86,181533,False
+Ain't No Mountain High Enough,Marvin Gaye; Tammi Terrell,1967,1960,eurodance; europop,87,151666,False
+...Ready For It?,Taylor Swift,2017,2010,,80,208186,False
+The Great Gig in the Sky,Pink Floyd,1973,1970,doo-wop,78,284413,False
+Say Yes To Heaven,Lana Del Rey,2023,2020,,86,209156,False
+Pump Up The Jam,Technotronic,1989,1980,disco,77,320306,False
+London Calling,The Clash,1979,1970,soft pop,62,199733,False
+Dirty Harry (feat. Bootie Brown),Gorillaz; Bootie Brown,2005,2000,britpop,78,230426,False
+Mannish Boy,Muddy Waters,1977,1970,,65,321133,False
+I Still Haven't Found What I'm Looking For,U2,1987,1980,new wave,75,277476,False
+Classic,Adrian Gurvitz,1982,1980,,59,294053,False
+Halo,Texas,2000,2000,,36,248786,False
+TEXAS HOLD 'EM,Beyoncé,2024,2020,,74,233456,True
+Livin' On The Edge,Aerosmith,1994,1990,,32,377933,False
+Battlefield,Jordin Sparks,2009,2000,,58,241920,False
+Waterloo,ABBA,1974,1970,,76,168960,False
+I Gotta Feeling,Black Eyed Peas,2009,2000,psychedelic rock; classic rock; acid rock,87,289133,False
+Careless Whisper,George Michael,1998,1990,classic rock; rock,80,300106,False
+Boy With Luv (feat. Halsey),BTS; Halsey,2019,2010,southern hip hop; crunk; old school hip hop; gangster rap; art pop; pop,80,229773,False
+My Iron Lung,Radiohead,1995,1990,country; classic country,70,276426,False
+Somebody Told Me,The Killers,2004,2000,,86,197200,False
+All The Small Things,blink-182,1999,1990,finnish rock,86,167066,False
+Kill Bill,SZA,2022,2020,r&b,79,153946,False
+Don't Bring Me Down,Electric Light Orchestra,1979,1970,soft pop,80,243132,False
+GET UP,Young Fathers,2014,2010,britpop; indie; indie rock,39,231105,False
+Wicked Game,Chris Isaak,1989,1980,southern hip hop; rap,87,289066,False
+That's The Story Of My Life,The Velvet Underground,1969,1960,k-pop,37,123506,False
